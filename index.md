@@ -16,7 +16,7 @@ title: Cellery Leran
             </div>
             <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
             <div class="cHomeButtonContainer">
-               <a class="cCellery-io-Home-main-download-button" href="downloads">Get Started</a>
+               <a class="cCellery-io-Home-main-download-button" href="#Get-Started">Get Started</a>
             </div>
             <!-- <p class="cCellery-io-Home-OS">Distributions available </br>for Linux, OS X and Windows</p> -->
             <!-- <hr class="cHr"> -->
@@ -110,25 +110,32 @@ title: Cellery Leran
    </div>
 </div>
 </div>
-<div class="row cCellery-io-Gray-row">
+<div class="row cCellery-io-Gray-row" id="Get-Started">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
+      <h2>Get Started</h2>
+            
+      </div>
+ </div>
+<div class="row cCellery-io-White-row">
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
       <h2>Join the Community</h2>
             <ul>
-      <li>Cellery on Github</li>
-<li>Docs & Samples</li>
-<li>Cellery mailing list</li>
-<li>Contribution</li>
+      <li><a href="">Cellery on Github</a></li>
+<li><a href="">Docs & Samples</a></li>
+<li><a href="">Cellery mailing list</a></li>
+<li><a href="">Contribution</a></li>
 </ul>
       </div>
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome ">
-      <h2>Docs:</h2>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
+      <h2>Docs</h2>
       <ul>
-       <li>CLI reference</li>
-<li>Cell reference</li>
-<li>Architecture</li>
-<li>Spec</li>
-<li>How Cellery maps to Kubernetes</li>
+       <li><a href="">CLI reference</a></li>
+<li><a href="">Cell reference</a></li>
+<li><a href="">Architecture</a></li>
+<li><a href="">Spec</a></li>
+<li><a href="">How Cellery maps to Kubernetes</a></li>
       </ul>
       </div>
  </div>

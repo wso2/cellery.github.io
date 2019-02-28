@@ -600,8 +600,16 @@ h2.cMainH2Title {
     font-weight: 300;
 }
 
-.cListContainerHome ul li:last-child {
+.cListContainerHome.cLinksList ul li  {
+    border-bottom: 1px solid #ccc;
+} 
+
+.cListContainerHome.cLinksList ul li:last-child {
     border: none;
+}
+
+.cListContainerHome a , .cListContainerHome a:visited {
+    color: #69b26d;
 }
  
 
