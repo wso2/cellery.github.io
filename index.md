@@ -1,108 +1,120 @@
 ---
 layout: cellery-page
 title: Cellery Leran
-
 ---
 <div class="row cCellery-io-White-row cCelleryIntro" style="padding-top:0;">
-         <div class="container">
-               <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
-                  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
-                   <div style="max-width:500px;"><p class="cMainParagraph">build, run, and manage structured microservice applications</p></div>
-                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none" style="padding-top:30px;">
-                     <p>Cellery makes it faster and simpler to build, test, deploy, run and manage microservice applications. Cellery helps structure cloud native applications using APIs and clear dependencies. Cellery is open source and supports all languages.</p>
-                   </div>
-                   <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
-                   <div class="cHomeButtonContainer">
-                   <a class="cCellery-io-Home-main-download-button" href="downloads">Download Cellery</a>
-                   </div> 
-                   <div class="cCelleryLinksomeContainer cWhiteBlock" style="padding-right:15px; margin-top:0;">     
-                   <ul>
-                   <li>Designed around modern agile dev and devops practices.</li>
-                   <li>Everything based on secure APIs and structured sets of microservices</li>
-                   <li>Quickly create scalable, structured apps on any cloud in any language </li>
-                   <li>Visibility and Observability for free</li>
-                   </ul>
-                   </div>
-                   <!-- <p class="cCellery-io-Home-OS">Distributions available </br>for Linux, OS X and Windows</p> -->
-                   <!-- <hr class="cHr"> -->
-                   </div>
-                </div>
-                <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
-                <div class="cVideoConatiner cBorderGray">
-                <img src="/cellery-images/video.jpg"/>
-                </div>
-               </div>
+   <div class="container">
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-Tag">
+   <div>
+               <p class="cMainParagraph">Build, run, and manage structured microservice applications</p>
+            </div>
+    </div>
+      <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
+               <p>Cellery makes it faster and simpler to build, test, deploy, run and manage microservice applications. Cellery helps structure cloud native applications using APIs and clear dependencies. Cellery is open source and supports all languages.</p>
+            </div>
+            <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
+            <div class="cHomeButtonContainer">
+               <a class="cCellery-io-Home-main-download-button" href="downloads">Get Started</a>
+            </div>
+            <!-- <p class="cCellery-io-Home-OS">Distributions available </br>for Linux, OS X and Windows</p> -->
+            <!-- <hr class="cHr"> -->
+         </div>
       </div>
+      <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
+      <a class="cTry" href="">Try out cellery inmstatntly</a>
+         <div class="cVideoConatiner cBorderGray">
+            <img src="/img/play.svg"/>
+         </div>
+      </div>
+   </div>
 </div>
 <div class="row cCellery-io-Gray-row ">
-<div class="container">
-
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-<h2>Why use Cellery?</h2>
-</div>
-<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" >
-<div class="cCelleryBoxHome">
-<img src="/img/diagram3.png"/>
-<h3>Quickly create cloud native apps</h3>
-<p>Cellery simplifies creating cloud native applications. Using code instead of YAML, build and deploy apps on Kubernetes. Use any language to write you apps.</p>
-</div>
-</div>
-
-<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
-<div class="cCelleryBoxHome">
-<img src="/img/diagram3.png"/>
-<h3>Agile Development</h3>
-<p>Cellery is designed  around agile development and DevOps practices. Push and pull complex applications in a single step.
-</p>
-</div>
-</div>
-
-
-<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
-<div class="cCelleryBoxHome">
-<img src="/img/diagram3.png"/>
-<h3>Structure and Secure Microservice Applications</h3>
-<p>Cellery brings simple clear structure to microservice applications, using secure APIs and dependency management.</p>
-</div>
-</div>
-
-
-<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
-<div class="cCelleryBoxHome">
-<img src="/img/diagram3.png"/>
-<h3>Observable</h3>
-<p>Cellery generates diagrams showing how your microservices fit together. At runtime these diagrams automatically become observable with monitoring and tracing.
-</p>
-</div>
-</div>
-
-
-
-<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
-<ul>
-<li>
-<a href="">Lorem Ipsum is simply dummy text of the printing</a>
-</li>
-<li>
-<a href="">Lorem Ipsum is simply dummy text of the printing</a>
-</li>
-<li>
-<a href="">Lorem Ipsum is simply dummy text of the printing</a>
-</li>
-
-</ul>
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h2>Why use Cellery?</h2>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" >
+            <div class="cCelleryBoxHome">
+            <div class="cCelleryBoxImg">
+               <img src="/img/create-cloud.svg"/>
+              </div>
+               <h3>Quickly create cloud native apps</h3>
+               <p>Cellery simplifies creating cloud native applications. Using code instead of YAML, build and deploy apps on Kubernetes. Use any language to write you apps.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
+            <div class="cCelleryBoxHome">
+               <div class="cCelleryBoxImg">
+               <img src="/img/agile-dev.svg"/>
+               </div>
+               <h3 class="cOneline">Agile Development</h3>
+               <p>Cellery is designed  around agile development and DevOps practices. Push and pull complex applications in a single step.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
+            <div class="cCelleryBoxHome">
+               <div class="cCelleryBoxImg">
+               <img src="/img/structure-secure.svg"/>
+               </div>
+               <h3>Structure and Secure Microservice Applications</h3>
+               <p>Cellery brings simple clear structure to microservice applications, using secure APIs and dependency management.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
+            <div class="cCelleryBoxHome">
+               <div class="cCelleryBoxImg">
+             <img src="/img/observable.svg"/>
+               </div>
+               <h3 class="cOneline">Observable</h3>
+               <p>Cellery generates diagrams showing how your microservices fit together. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
+            <ul>
+               <li>
+                  <a href="">Try out Cellery on Katacoda</a>
+               </li>
+               <li>
+                  <a href="">Get started with Cellery on GCP or Kubernetes</a>
+               </li>
+        </ul>
+         </div>
+      </div>
+      <div class=""></div>
+   </div>
 </div>
 
+<div class="row cCellery-io-White-row">
+   <div class="container">
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+   <h2>How does Cellery work?</h2>
+   </div>
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cListContainerHome">
+   <ul>
+  <li> Write simple code that packages microservices together into cells, which are simply groups of microservices with well-defined APIs.</li>
+  <li>Compile cells into immutable images. Push and pull images from any docker repository.</li>
+  <li>Connect cells together into applications.</li>
+  <li>Your application is secure by default using mTLS and JWT tokens with embedded microgateways.</li>
+  <li>Manage and observe cells with simple tools, tracing, and monitoring.</li>
+  <li>Cellery extends Kubernetes and Istio, supporting multiple clouds including Google, AWS, Azure and OpenShift.</li>
+  <li>Cellery is completely open source and supports writing apps in any language</li>
+   </ul>
+   </div>
+   <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
+<div class="cDiagramPart1"  data-aos="fade-right">
+   <img src="/img/diagram3.png"/>
+   </div>
+    <div class="cDiagramPart2"  data-aos="fade-right">
+    <img src="/img/diagram3.png"/>
+    </div>
+     <div class="cDiagramPart3" data-aos="fade-right">
+     <img src="/img/diagram3.png"/>
+     </div>
+   </div>-->
+
+
+   </div>
 </div>
-
-<div class=""></div>
-
-
-</div>
-
-
-
-</div>
-
-
