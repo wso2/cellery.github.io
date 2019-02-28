@@ -153,7 +153,10 @@ ul.navbar-nav {
 
 .navbar-brand {
     padding: 0;
-    margin: -4px 0 0 0;
+
+    margin: 11px 0 0 0;
+    
+    font-weight: 300;
 }
 
 .cSerachIcon {
@@ -172,8 +175,8 @@ ul.navbar-nav {
 .cCellery-io-Gray-row {
     /* background-image: url("/img/cellery-images/cellery-bg.png"); */
   
-    margin-top: 30px;
-    padding-bottom: 30px;
+    margin-top: 0px;
+    padding-bottom: 70px;
     background-color: #f2f5f5;
     background-size: 250%;
     padding-top: 0;
@@ -225,6 +228,79 @@ ul.navbar-nav {
     padding-top: 0;
 }
 
+
+.cCelleryBoxHomeContainer  {
+    padding: 0;
+}
+
+.cCelleryBoxHome {
+    background: #ffffff;
+    padding: 20px;
+    min-height: 570px;
+}
+
+.cCelleryBoxHome img {
+    width: 100%;
+}
+
+
+.cCelleryBoxHome p {
+    font-size: 16px;
+
+line-height: 24px;
+
+padding-right: 30px;
+
+font-weight: 300;
+}
+
+h2 {
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+
+.cCelleryBoxHome h3 {
+    font-size: 20px;
+    font-weight: 400;
+    border-bottom: 2px solid  #29abe0;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    line-height: 28px;
+}
+
+.cCelleryLinksomeContainer {
+    margin-top: 30px;
+
+}
+
+.cCelleryLinksomeContainer  ul {
+    padding: 0;
+    margin: 0;
+}
+
+.cCelleryLinksomeContainer  ul li {
+    list-style: none;
+    border-bottom: 1px solid #d5d6d6;
+    line-height: 40px;
+
+
+}
+.cCelleryLinksomeContainer  ul li:last-child {
+    border: none;
+} 
+
+.cCelleryLinksomeContainer  ul li a {
+    color:  #29abe0;
+    
+}
+.cCelleryLinksomeContainer.cWhiteBlock  ul li {
+    border-bottom: 1px solid #29abe0;
+}
+.cCelleryLinksomeContainer.cWhiteBlock  ul li:last-child  {
+    border: none;
+}
 /*COLUMNS*/
 
 .cCellery-io-left-col {
