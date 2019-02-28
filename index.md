@@ -72,7 +72,7 @@ title: Cellery Leran
                <p>Cellery generates diagrams showing how your microservices fit together. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
             </div>
          </div>
-         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
+         <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
             <ul>
                <li>
                   <a href="">Try out Cellery on Katacoda</a>
@@ -81,7 +81,7 @@ title: Cellery Leran
                   <a href="">Get started with Cellery on GCP or Kubernetes</a>
                </li>
         </ul>
-         </div>
+         </div> -->
       </div>
       <div class=""></div>
    </div>
@@ -89,10 +89,10 @@ title: Cellery Leran
 
 <div class="row cCellery-io-White-row">
    <div class="container">
-   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+   <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
    <h2>How does Cellery work?</h2>
    </div>
-   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cListContainerHome">
+   <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 cListContainerHome">
    <ul>
   <li> Write simple code that packages microservices together into cells, which are simply groups of microservices with well-defined APIs.</li>
   <li>Compile cells into immutable images. Push and pull images from any docker repository.</li>
@@ -103,18 +103,32 @@ title: Cellery Leran
   <li>Cellery is completely open source and supports writing apps in any language</li>
    </ul>
    </div>
-   <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
-<div class="cDiagramPart1"  data-aos="fade-right">
-   <img src="/img/diagram3.png"/>
-   </div>
-    <div class="cDiagramPart2"  data-aos="fade-right">
-    <img src="/img/diagram3.png"/>
-    </div>
-     <div class="cDiagramPart3" data-aos="fade-right">
-     <img src="/img/diagram3.png"/>
-     </div>
-   </div>-->
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
+<img src="/img/cellery-architecture-01.png"/>
 
 
    </div>
 </div>
+</div>
+<div class="row cCellery-io-Gray-row">
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
+      <h2>Join the Community</h2>
+            <ul>
+      <li>Cellery on Github</li>
+<li>Docs & Samples</li>
+<li>Cellery mailing list</li>
+<li>Contribution</li>
+</ul>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome ">
+      <h2>Docs:</h2>
+      <ul>
+       <li>CLI reference</li>
+<li>Cell reference</li>
+<li>Architecture</li>
+<li>Spec</li>
+<li>How Cellery maps to Kubernetes</li>
+      </ul>
+      </div>
+ </div>
