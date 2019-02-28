@@ -23,7 +23,7 @@ title: Cellery Leran
          </div>
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
-      <a class="cTry" href="">Try out cellery inmstatntly</a>
+      <a class="cTry" href="">Try out cellery instantly</a>
          <div class="cVideoConatiner cBorderGray">
             <img src="/img/play.svg"/>
          </div>
