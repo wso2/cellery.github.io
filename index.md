@@ -114,8 +114,7 @@ title: Cellery Leran
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
       <h2>Get Started</h2>
-            
-      </div>
+     </div>
  </div>
 <div class="row cCellery-io-White-row">
    <div class="container">
