@@ -312,7 +312,7 @@ h2 {
     color:  #69b26d;
     
 }
-.cCelleryLinksomeContainer.cWhiteBlock  ul li {
+.cCelleryLinksomeContainer.cWhiteBlock  ul li  {
     border-bottom: 1px solid #69b26d;
 }
 .cCelleryLinksomeContainer.cWhiteBlock  ul li:last-child  {
@@ -447,6 +447,10 @@ a.cCellery-io-Home-main-download-button {
     margin-bottom: 30px;
 }
 
+/* a.cCellery-io-Home-main-download-button:hover {
+    background-image: url("/img/get-start2.svg");
+} */
+
 .cCellery-io-Home-main-download-button p {
     padding: 0;
     margin: 0;
@@ -459,7 +463,7 @@ a.cCellery-io-Home-main-download-button {
 
 a.cCellery-io-Home-main-download-button:hover {
     background-color: #69b26d;
-    background-image: url("/img/download-bg-white.svg");
+    background-image: url("/img/get-start-2.svg");
 }
 
 p.cCellery-io-Home-OS {
@@ -578,6 +582,32 @@ h2.cMainH2Title {
     
     font-family: 'Roboto', sans-serif;
 }
+
+.cDaigramContainerHome {
+    margin-top: 70px;
+}
+
+.cListContainerHome ul {
+    padding: 0;
+
+}
+.cListContainerHome ul li {
+    list-style: none;
+    border-bottom: 1px solid #69b26d;
+    line-height: 30px;
+    font-size: 18px;
+    padding: 5px 0;
+    font-weight: 300;
+}
+
+.cListContainerHome ul li:last-child {
+    border: none;
+}
+ 
+
+
+
+
 
 /*FOOTER*/
 
