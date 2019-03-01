@@ -610,6 +610,7 @@ h2.cMainH2Title {
 
 .cListContainerHome a , .cListContainerHome a:visited {
     color: #69b26d;
+    font-weight: 400;
 }
  
 
