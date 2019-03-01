@@ -16,7 +16,7 @@ title: Cellery Home
             </div>
             <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
             <div class="cHomeButtonContainer">
-               <a class="cCellery-io-Home-main-download-button" href="#Get-Started">Get Started</a>
+               <a class="cCellery-io-Home-main-download-button" href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">Get Started</a>
             </div>
             <!-- <p class="cCellery-io-Home-OS">Distributions available </br>for Linux, OS X and Windows</p> -->
             <!-- <hr class="cHr"> -->
