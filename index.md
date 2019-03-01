@@ -2,7 +2,7 @@
 layout: cellery-page
 title: Cellery Home
 ---
-<div class="row cCellery-io-White-row cCelleryIntro" style="padding-top:0;">
+<div class="row cCellery-io-White-row cCelleryIntro" style="padding-top:0; background-image:none;">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-Tag">
          <div>
@@ -33,7 +33,7 @@ Secured APIs by default.  Code in any language.
       </div>
    </div>
 </div>
-<div class="row cCellery-io-Gray-row ">
+<div class="row cCellery-io-White-row" style="padding-top:0;">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -41,37 +41,37 @@ Secured APIs by default.  Code in any language.
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" >
             <div class="cCelleryBoxHome">
-               <div class="cCelleryBoxImg">
+               <!-- <div class="cCelleryBoxImg">
                   <img src="/img/create-cloud.svg"/>
-               </div>
-               <h3>Create</h3>
+               </div> -->
+               <h3 class="box1">Create</h3>
                <p>A cell is an opinionated way of creating a bounded set of microservices with a clear set of interfaces.</p>
             </div>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
             <div class="cCelleryBoxHome">
-               <div class="cCelleryBoxImg">
+               <!-- <div class="cCelleryBoxImg">
                   <img src="/img/agile-dev.svg"/>
-               </div>
-               <h3>Develop and Operate</h3>
+               </div> -->
+               <h3 class="box2">Develop and Operate</h3>
                <p>Cell definitions are just code. Build, deploy and run cells using Kubernetes. Cellery simplifies much of the complexity of Kubernetes for both developers and operators.</p>
             </div>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
             <div class="cCelleryBoxHome">
-               <div class="cCelleryBoxImg">
+               <!-- <div class="cCelleryBoxImg">
                   <img src="/img/structure-secure.svg"/>
-               </div>
-               <h3>Structure and Secure</h3>
+               </div> -->
+               <h3 class="box3">Structure and Secure</h3>
                <p>Cell images can be pushed and pulled to and from any Docker repository.</p>
             </div>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
             <div class="cCelleryBoxHome">
-               <div class="cCelleryBoxImg">
+               <!-- <div class="cCelleryBoxImg">
                   <img src="/img/observable.svg"/>
-               </div>
-               <h3>Observe</h3>
+               </div> -->
+               <h3 class="box4">Observe</h3>
                <p>Cellery is integrated into Kubernetes with tools to install, run and monitor cells. Cells can be managed with blue/green or canary deployments.</p>
             </div>
          </div>
@@ -89,8 +89,8 @@ Secured APIs by default.  Code in any language.
       <div class=""></div>
    </div>
 </div>
-<div class="row cCellery-io-White-row">
-   <div class="container">
+<div class="row cCellery-io-Gray-row">
+   <div class="container" data-aos="fade-up">
       <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
          <h2>How does Cellery work?</h2>
       </div>
@@ -106,10 +106,11 @@ Secured APIs by default.  Code in any language.
          </ul>
       </div> -->
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
+       <div class="cDiagramBorder"  data-aos="fade-up">
          <div class="cChinaAdvantageBlock" data-aos="fade-up">
             <img src="/img/diagram/cellery-architecture_step-01.svg"/>
          </div>
-         <div class="cChinaAdvantageBlock" data-aos="fade-up" style="margin-top: -60px;">
+         <div class="cChinaAdvantageBlock" data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" style="margin-top: -60px;">
             <img src="/img/diagram/cellery-architecture_step-02.svg"/>
          </div>
          <div class="cChinaAdvantageBlock" data-aos="fade-up">
@@ -118,13 +119,14 @@ Secured APIs by default.  Code in any language.
          </div>
       </div>
    </div>
+   </div>
 <!-- <div class="row cCellery-io-Gray-row" id="Get-Started">
 <div class="container">
    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
       <h2>Get Started</h2>
    </div>
 </div> -->
-<div class="row cCellery-io-Gray-row">
+<div class="row cCellery-io-White-row">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
       <h2 id="community">Join the Community</h2>
