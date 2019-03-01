@@ -6,7 +6,7 @@ a,
 a:visited,
 a:hover,
 a:focus {
-/*    color: #29abe0 !important;*/
+/*    color: #69b26d !important;*/
 }
 
 .cDownloadsHeader h1 {
@@ -28,7 +28,7 @@ a:focus {
 
 .cDownloadsHeader a {
     font-size: 16px;
-    color: #29abe0;
+    color: #69b26d;
 }
 
 .cDownloads {
@@ -83,12 +83,12 @@ a.cDownload .cSize {
 }
 
 .cArchived a:hover {
-    background-color: #29abe0;
+    background-color: #69b26d;
 }
 
 .cReleaseNotes a {
     font-size: 16px;
-    color: #29abe0;
+    color: #69b26d;
     font-family: "CalibreWeb-Semibold", "pragmatica", sans-serif;
     display: inline-block;
     letter-spacing: 1px;
@@ -136,7 +136,7 @@ a.cDownload .cSize {
 }
 
 .cInstallers table tr td a {
-    color: #29abe0;
+    color: #69b26d;
 }
 
 .cInstallers table tr td a.cDownloadLinkIcon img {
@@ -147,7 +147,7 @@ a.cDownload .cSize {
 
 a.cDownload:hover {
     background-image: url("/img/download-bg-white.svg");
-    background-color: #29abe0;
+    background-color: #69b26d;
     background-image: url("/img/download-bg-white.svg");
 }
 
@@ -173,7 +173,7 @@ ul.cDiwnloadSubLinks li:first-child {
 }
 
 ul.cDiwnloadSubLinks li a {
-    color: #29abe0;
+    color: #69b26d;
 }
 
 .cReleseNotesContainer {
@@ -204,7 +204,7 @@ ul.cDiwnloadSubLinks li a {
 
 a.cArchivedReleaseNotesLink {
     font-size: 18px;
-    color: #29abe0;
+    color: #69b26d;
     font-family: "CalibreWeb-Semibold", "pragmatica", sans-serif;
     display: inline-block;
     margin-top: 20px;
@@ -224,7 +224,7 @@ a.cArchivedReleaseNotesLink {
 
 .wy-breadcrumbs li,
 .wy-breadcrumbs li a {
-    color: #29abe0 !important;
+    color: #69b26d !important;
     font-size: 16px;
 }
 

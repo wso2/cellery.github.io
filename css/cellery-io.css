@@ -131,7 +131,7 @@ a.cLogo img {
 }
 
 .navbar-nav>li>a:hover {
-    color: #69b26d !important;
+    color: #57595d !important;
 }
 
 .navbar-nav>li.cActive>a {
@@ -359,7 +359,9 @@ padding-left: 15px;
     
     display: inline-block;
 }
-
+.cCellery-io-Home-widget a.cTry:hover {
+    color: #57595d;
+}
 /*COLUMNS*/
 
 .cCellery-io-left-col {
