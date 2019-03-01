@@ -146,9 +146,9 @@ a.cDownload .cSize {
 }
 
 a.cDownload:hover {
-    background-image: url("/img/download-bg-white.svg");
+    background-image: url("../img/download-bg-white.svg");
     background-color: #69b26d;
-    background-image: url("/img/download-bg-white.svg");
+    background-image: url("../img/download-bg-white.svg");
 }
 
 ul.cDiwnloadSubLinks {
