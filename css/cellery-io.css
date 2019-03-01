@@ -641,13 +641,11 @@ h2.cMainH2Title {
 }
 
 .cCelleryFooterLinks ul li a {
-    color:  #69b26d;
+    color: #57595d;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif !important;
-    font-weight: normal;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 1px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .cCelleryFooterSignUp p {
