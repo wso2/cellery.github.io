@@ -1,6 +1,6 @@
 ---
 layout: cellery-page
-title: Cellery Leran
+title: Cellery Home
 ---
 <div class="row cCellery-io-White-row cCelleryIntro" style="padding-top:0;">
    <div class="container">
@@ -125,24 +125,25 @@ Secured APIs by default.  Code in any language.
    </div>
 </div>
 <div class="row cCellery-io-White-row">
-<div class="container">
-   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
-      <h2>Join the Community</h2>
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
+      <h2 id="community">Join the Community</h2>
       <ul>
-         <li><a href="">Cellery on Github</a></li>
-         <li><a href="">Docs & Samples</a></li>
-         <li><a href="">Cellery mailing list</a></li>
-         <li><a href="">Contribution</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk" target="_blank">Cellery on Github</a></li>
+        <li><a href="https://groups.google.com/a/wso2.com/forum/#!forum/wso2-cellery-dev" target="_blank">Cellery mailing list</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md" target="_blank">How to contribute</a></li>
       </ul>
-   </div>
-   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
-      <h2>Docs</h2>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
+      <h2 id="docs">Docs</h2>
       <ul>
-         <li><a href="">CLI reference</a></li>
-         <li><a href="">Cell reference</a></li>
-         <li><a href="">Architecture</a></li>
-         <li><a href="">Spec</a></li>
-         <li><a href="">How Cellery maps to Kubernetes</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/samples/README.md" target="_blank">Samples</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">Getting started</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cell-reference.md" target="_blank">How to code Cell</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cli-reference.md" target="_blank">How to use CLI</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-architecture.md" target="_blank">Architecture</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-and-kubernetes.md" target="_blank">How Cellery 
+        works with Kubernetes</a></li>
       </ul>
    </div>
 </div>
