@@ -123,7 +123,7 @@ title: Cellery Home
       <ul>
         <li><a href="https://github.com/wso2-cellery/sdk">Cellery on Github</a></li>
         <li><a href="https://groups.google.com/a/wso2.com/forum/#!forum/wso2-cellery-dev">Cellery mailing list</a></li>
-        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md">Contribution</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md">How to contribute</a></li>
       </ul>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
