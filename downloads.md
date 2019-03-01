@@ -11,20 +11,24 @@ title: Cellery Leran
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cDownloadsHeader">
                 <h1>Downloads</h1>
                 <p>
-                    orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                    After downloading a release for your system, please follow the installation instructions. For 
+                    more information, see <a href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">
+                    Getting Started</a>. If you are building from source, follow the 
+                    <a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md#build-from-source"
+                    target="_blank">build instructions</a>.
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDownloadsHeader">       
                 <div class="cFeaturedVersion">
-                    <h2>Current version: <span id="versionInfo">0.990.2 (Dec 30, 2018)</span></h2>
+                    <h2>Current version: <span id="versionInfo">0.1.0 (Feb 25, 2019)</span></h2>
                 </div>
             </div>
         </div>
         <div class="clearfix"></div>
         <div class="row cDownloads">
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadLeft">
+            <!--<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadLeft">
                 <a id="packWindows" href="" class="cDownload" data-download="downloads" data-pack="">
                     <div>Windows</div>
                     <div class="cSize">Installer msi <span id="packWindowsName">(210mb)</span></div>
@@ -34,28 +38,29 @@ title: Cellery Leran
                     <li><a id="packWindowsSha1" href="">SHA-1</a></li>
                     <li><a id="packWindowsAsc" href="">asc</a></li>
                 </ul>
-            </div>
+            </div>-->
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
-                <a id="packLinux" href="" class="cDownload" data-download="downloads" data-pack="">
+                <a id="packLinux" href="https://github.com/wso2-cellery/sdk/releases/download/v0.1.0/cellery-ubuntu-x64-0.1.0.deb" 
+                class="cDownload" data-download="downloads" data-pack="">
                     <div>Linux</div>
-                    <div class="cSize">deb Package <span id="packLinuxName">(210mb)</span></div>
+                    <div class="cSize">deb Package <span id="packLinuxName">(8mb)</span></div>
                 </a>
-                <ul class="cDiwnloadSubLinks">
+                <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packLinuxMd5" href="">md5</a></li>
                     <li><a id="packLinuxSha1" href="">SHA-1</a></li>
                     <li><a id="packLinuxAsc" href="">asc</a></li>
-                </ul>
+                </ul>-->
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
-                <a id="packMac" href="" class="cDownload" data-download="downloads" data-pack="">
+                <a id="packMac" href="https://github.com/wso2-cellery/sdk/releases/download/v0.1.0/cellery-macos-installer-x64-0.1.0.pkg" class="cDownload" data-download="downloads" data-pack="">
                     <div>MacOS</div>
-                    <div class="cSize">Installer pkg <span id="packMacName">(230mb)</span></div>
+                    <div class="cSize">Installer pkg <span id="packMacName">(7mb)</span></div>
                 </a>
-                <ul class="cDiwnloadSubLinks">
+                <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packMacMd5" href="">md5</a></li>
                     <li><a id="packMacSha1" href="">SHA-1</a></li>
                     <li><a id="packMacAsc" href="">asc</a></li>
-                </ul>
+                </ul>-->
             </div>
         </div>
         <!-- <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12">
@@ -68,8 +73,8 @@ title: Cellery Leran
         </div> -->
         <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12">
             <div class="cStandaloneInstallers">
-                <h2>Installation Packages</h2>
-                <!-- <div class="cInstallers">
+                <!--<h2>Installation Packages</h2>
+                <div class="cInstallers">
                     <h3 class="release-version">Stable <span id="stableInfo">0.990.2 (Dec 30, 2018)</span></h3>
                     <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cLeftTable">
                         <div class="insPackages0container">
