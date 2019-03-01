@@ -118,13 +118,13 @@ Secured APIs by default.  Code in any language.
          </div>
       </div>
    </div>
-<div class="row cCellery-io-Gray-row" id="Get-Started">
+<!-- <div class="row cCellery-io-Gray-row" id="Get-Started">
 <div class="container">
    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
       <h2>Get Started</h2>
    </div>
-</div>
-<div class="row cCellery-io-White-row">
+</div> -->
+<div class="row cCellery-io-Gray-row">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
       <h2 id="community">Join the Community</h2>
