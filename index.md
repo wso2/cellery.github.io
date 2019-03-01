@@ -1,6 +1,6 @@
 ---
 layout: cellery-page
-title: Cellery Leran
+title: Cellery Home
 ---
 <div class="row cCellery-io-White-row cCelleryIntro" style="padding-top:0;">
    <div class="container">
@@ -119,7 +119,7 @@ title: Cellery Leran
 <div class="row cCellery-io-White-row">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
-      <h2>Join the Community</h2>
+      <h2 id="community">Join the Community</h2>
             <ul>
       <li><a href="">Cellery on Github</a></li>
 <li><a href="">Docs & Samples</a></li>
@@ -128,7 +128,7 @@ title: Cellery Leran
 </ul>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
-      <h2>Docs</h2>
+      <h2 id="docs">Docs</h2>
       <ul>
        <li><a href="">CLI reference</a></li>
 <li><a href="">Cell reference</a></li>
