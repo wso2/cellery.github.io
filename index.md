@@ -45,7 +45,7 @@ Secured APIs by default.  Code in any language.
                   <img src="/img/create-cloud.svg"/>
                </div> -->
                <h3 class="box1">Create</h3>
-               <p>A cell is an opinionated way of creating a bounded set of microservices with a clear set of interfaces.</p>
+               <p>Cellery simplifies creating composite microservice applications. Using code instead of YAML, build, test and deploy apps on Kubernetes. Use any language to write your apps.</p>
             </div>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
@@ -54,7 +54,8 @@ Secured APIs by default.  Code in any language.
                   <img src="/img/agile-dev.svg"/>
                </div> -->
                <h3 class="box2">Develop and Operate</h3>
-               <p>Cell definitions are just code. Build, deploy and run cells using Kubernetes. Cellery simplifies much of the complexity of Kubernetes for both developers and operators.</p>
+               <p>Cellery is designed  around agile development teams and DevOps practices. Push, pull and run composite apps in a single step.
+</p>
             </div>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
@@ -63,7 +64,8 @@ Secured APIs by default.  Code in any language.
                   <img src="/img/structure-secure.svg"/>
                </div> -->
                <h3 class="box3">Structure and Secure</h3>
-               <p>Cell images can be pushed and pulled to and from any Docker repository.</p>
+               <p>Cellery brings simple clear structure to composite applications, using secure APIs and dependency management.
+</p>
             </div>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
@@ -72,7 +74,7 @@ Secured APIs by default.  Code in any language.
                   <img src="/img/observable.svg"/>
                </div> -->
                <h3 class="box4">Observe</h3>
-               <p>Cellery is integrated into Kubernetes with tools to install, run and monitor cells. Cells can be managed with blue/green or canary deployments.</p>
+               <p>Cellery shows you composites and how they interact as diagrams. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
             </div>
          </div>
          <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
