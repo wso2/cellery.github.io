@@ -13,7 +13,7 @@ title: Cellery Home
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
                <p>Use code-first to build, run and manage composite microservice applications. 
-Build, push, pull, run, and observe composites on Kubernetes. 
+Build, push, pull, run, scale and observe composites on Kubernetes. 
 Secured APIs by default.  Code in any language. 
 </p>
             </div>
