@@ -12,9 +12,7 @@ title: Cellery Home
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
-               <p>Use code-first to build, run and manage composite microservice applications. 
-Build, push, pull, run, scale and observe composites on Kubernetes. 
-Secured APIs by default.  Code in any language. 
+               <p>Cellery is a code-first approach to building, integrating, running and managing composite microservice applications on Kubernetes. Build, push/pull, run, scale and observe composites. Secure APIs by default. Code in any language.
 </p>
             </div>
             <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
