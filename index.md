@@ -141,8 +141,8 @@ title: Cellery Home
       <ul>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/samples/README.md" target="_blank">Samples</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">Getting started</a></li>
-        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cell-reference.md" target="_blank">How to code Cell</a></li>
-        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cli-reference.md" target="_blank">How to use CLI</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cell-reference.md" target="_blank">How to code Cells</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cli-reference.md" target="_blank">How to use the CLI</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-architecture.md" target="_blank">Architecture</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-and-kubernetes.md" target="_blank">How Cellery 
         works with Kubernetes</a></li>
