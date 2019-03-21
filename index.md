@@ -132,7 +132,7 @@ title: Cellery Home
       <h2 id="community">Join the Community</h2>
       <ul>
         <li><a href="https://github.com/wso2-cellery/sdk" target="_blank">Cellery on Github</a></li>
-        <li><a href="https://groups.google.com/a/wso2.com/forum/#!forum/wso2-cellery-dev" target="_blank">Cellery mailing list</a></li>
+        <li><a href="https://groups.google.com/forum/#!forum/wso2-cellery-dev" target="_blank">Cellery mailing list</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md" target="_blank">How to contribute</a></li>
       </ul>
       </div>
