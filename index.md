@@ -42,7 +42,7 @@ title: Cellery Home
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/create-cloud.svg"/>
                </div> -->
-               <h3 class="box1">Create and Combine</h3>
+               <h3 class="box3">Create and Combine</h3>
                <p>Cellery simplifies creating composite microservice apps. Use code instead of YAML to build, test and deploy composites on Kubernetes.</p>
             </div>
          </div> 
