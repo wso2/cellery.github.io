@@ -72,7 +72,7 @@ title: Cellery Home
                   <img src="/img/observable.svg"/>
                </div> -->
                <h3 class="box3">Manage and Observe</h3>
-               <p>Update and rollback cells. Cellery shows your composites and how they interact as diagrams. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
+               <p>Update and rollback cells. Cellery shows your composites as diagrams. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
             </div>
          </div>
          <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
