@@ -52,7 +52,7 @@ title: Cellery Home
                   <img src="/img/structure-secure.svg"/>
                </div> -->
                <h3 class="box3">Secure Building Blocks</h3>
-               <p>Cellery brings clear structure to composite applications, using secure APIs and dependency management. SSO, tokens and mTLS by default.
+               <p>Cellery brings clear structure to composite applications, using secure APIs and dependency management. Single sign-on, tokens and mTLS by default.
 </p>
             </div>
          </div>
