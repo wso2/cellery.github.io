@@ -139,7 +139,7 @@ title: Cellery Home
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
       <h2 id="docs">Docs</h2>
       <ul>
-        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/samples/README.md" target="_blank">Samples</a></li>
+        <li><a href="https://github.com/wso2-cellery/samples" target="_blank">Samples</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">Getting started</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cell-reference.md" target="_blank">How to code Cells</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cli-reference.md" target="_blank">How to use the CLI</a></li>
