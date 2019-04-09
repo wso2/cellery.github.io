@@ -228,8 +228,8 @@ title: Cellery Leran
 }
 .cInstallers table tr td {
     padding: 10px 7px 10px 7px;
-    font-size: 15px;
-    font-weight: 600;
+    /* font-size: 15px;
+    font-weight: 600; */
     color: #585a5e;
     border-bottom: solid .5px #a7a8ab;
     vertical-align: top;
