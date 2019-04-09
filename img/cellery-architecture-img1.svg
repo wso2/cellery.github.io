@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1121px" height="269.886px" viewBox="0 0 1121 269.886" enable-background="new 0 0 1121 269.886" xml:space="preserve">
+<line fill="none" x1="-92.114" y1="104.886" x2="-91.114" y2="104.886"/>
+<rect x="320.085" y="50.886" fill="#F7F7F7" width="659.301" height="210.104"/>
+<g>
+	<text transform="matrix(1 0 0 1 54.7275 68.6484)" fill="#808080" font-family="'Calibre-Semibold'" font-size="22.0075">DEVELOP</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 362.7407 152.0088)" fill="#58595B" font-family="'Pragmatica'" font-size="14.6717">Cell Description</text>
+</g>
+<g>
+	<g>
+		<path fill="#FFFFFF" d="M421.312,66.789c-0.763-0.66-2.212-1.2-3.221-1.2h-24.086c-1.009,0-1.834,0.825-1.834,1.834v53.934
+			c0,1.009,0.825,1.834,1.834,1.834h43.443c1.009,0,1.834-0.825,1.834-1.834V84.18c0-1.009-0.624-2.374-1.387-3.034L421.312,66.789z
+			"/>
+		<path fill="none" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" d="M421.312,66.789
+			c-0.763-0.66-2.212-1.2-3.221-1.2h-24.086c-1.009,0-1.834,0.825-1.834,1.834v53.934c0,1.009,0.825,1.834,1.834,1.834h43.443
+			c1.009,0,1.834-0.825,1.834-1.834V84.18c0-1.009-0.624-2.374-1.387-3.034L421.312,66.789z"/>
+	</g>
+	
+		<rect x="402.112" y="94.39" fill="#FFFFFF" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" width="27.229" height="5.236"/>
+	
+		<rect x="402.112" y="106.958" fill="#FFFFFF" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" width="27.229" height="5.235"/>
+	<polyline fill="none" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" points="439.282,82.346 419.925,82.346 
+		419.925,65.589 	"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 515.395 247.8984)" fill="#58595B" font-family="'Pragmatica'" font-size="14.6717">Cell Image</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 781.8506 143.7568)" fill="#58595B" font-family="'Pragmatica'" font-size="14.6717">Docker Repo</text>
+</g>
+<g>
+	<g>
+		<path fill="#FFFFFF" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" d="M785.991,161.222v63.749
+			c0,4.713,17.793,8.532,39.742,8.532s39.742-3.819,39.742-8.532v-63.749H785.991z"/>
+		
+			<ellipse fill="#FFFFFF" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" cx="825.733" cy="161.222" rx="39.742" ry="8.532"/>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#808080" d="M854.117,196.343c-1.122-0.752-3.702-1.027-5.688-0.65
+		c-0.255-1.872-1.298-3.492-3.192-4.958l-1.093-0.727l-0.726,1.089c-0.934,1.403-1.397,3.352-1.241,5.216
+		c0.065,0.655,0.281,1.83,0.955,2.862c-0.674,0.365-2.005,0.863-3.763,0.828h-33.815l-0.064,0.389
+		c-0.319,1.876-0.312,7.725,3.485,12.222c2.889,3.417,7.218,5.151,12.865,5.151c12.248,0,21.312-5.639,25.55-15.885
+		c1.671,0.033,5.262,0.011,7.107-3.517c0.05-0.083,0.16-0.292,0.479-0.962l0.179-0.366L854.117,196.343z M827.448,187.851h5.145
+		v-4.672h-5.145V187.851z M827.448,193.459h5.145v-4.673h-5.145V193.459z M821.371,193.459h5.145v-4.673h-5.145V193.459z
+		 M815.295,193.459h5.144v-4.673h-5.144V193.459z M809.222,199.067h5.142v-4.672h-5.142V199.067z M815.295,199.067h5.144v-4.672
+		h-5.144V199.067z M821.371,199.067h5.145v-4.672h-5.145V199.067z M827.448,199.067h5.145v-4.672h-5.145V199.067z M833.524,199.067
+		h5.141v-4.672h-5.141V199.067z"/>
+</g>
+<g>
+	<g>
+		<polyline fill="none" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" points="415.728,163.108 415.728,193.473 
+			502.621,193.473 		"/>
+		<g>
+			<polygon fill="#58595B" points="501.551,197.131 507.886,193.473 501.551,189.814 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" x1="595.515" y1="195.083" x2="757.352" y2="195.083"/>
+		<g>
+			<polygon fill="#58595B" points="756.281,198.741 762.616,195.083 756.281,191.425 			"/>
+		</g>
+	</g>
+</g>
+<rect x="631.22" y="183.495" fill="#F7F7F7" width="48.529" height="24.403"/>
+<g>
+	<text transform="matrix(1 0 0 1 638.8096 199.3389)" fill="#58595B" font-family="'Pragmatica'" font-size="14.6717">Push</text>
+</g>
+<rect x="696.282" y="222.154" fill="#F7F7F7" width="66.334" height="20.373"/>
+<g>
+	<text transform="matrix(1 0 0 1 716.7334 237.2227)" fill="#58595B" font-family="'Pragmatica'" font-size="14.6717">Pull</text>
+</g>
+<g>
+	<g>
+		<path fill="#FFFFFF" d="M414.073,71.612c-0.763-0.66-2.212-1.2-3.221-1.2h-24.086c-1.009,0-1.834,0.825-1.834,1.834v53.934
+			c0,1.009,0.825,1.834,1.834,1.834h43.443c1.009,0,1.834-0.825,1.834-1.834V89.003c0-1.009-0.624-2.374-1.387-3.034L414.073,71.612
+			z"/>
+		<path fill="none" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" d="M414.073,71.612
+			c-0.763-0.66-2.212-1.2-3.221-1.2h-24.086c-1.009,0-1.834,0.825-1.834,1.834v53.934c0,1.009,0.825,1.834,1.834,1.834h43.443
+			c1.009,0,1.834-0.825,1.834-1.834V89.003c0-1.009-0.624-2.374-1.387-3.034L414.073,71.612z"/>
+	</g>
+	
+		<rect x="394.874" y="99.213" fill="#FFFFFF" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" width="27.229" height="5.236"/>
+	
+		<rect x="394.874" y="111.781" fill="#FFFFFF" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" width="27.229" height="5.235"/>
+	<polyline fill="none" stroke="#58595B" stroke-width="0.917" stroke-miterlimit="10" points="432.044,87.169 412.687,87.169 
+		412.687,70.412 	"/>
+</g>
+<rect x="426.923" y="182.271" fill="#F7F7F7" width="48.529" height="24.403"/>
+<g>
+	<text transform="matrix(1 0 0 1 434.5132 199.3389)" fill="#58595B" font-family="'Pragmatica'" font-size="14.6717">Build</text>
+</g>
+<g>
+	<polyline fill="#FFFFFF" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		570.886,174.689 585.886,157.745 585.886,202.969 570.886,223.249 	"/>
+	<polyline fill="#FFFFFF" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		515.886,174.689 536.386,157.745 585.886,157.745 570.886,174.689 	"/>
+	
+		<line fill="#FFFFFF" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="560.886" y1="157.745" x2="543.386" y2="174.689"/>
+	
+		<rect x="515.886" y="174.689" fill="#FFFFFF" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="55" height="48.56"/>
+	
+		<line fill="#FFFFFF" stroke="#58595B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="532.761" y1="187.574" x2="554.011" y2="187.574"/>
+</g>
+<text transform="matrix(0 -1 1 0 1012.0713 201.2197)" fill="#58595B" font-family="'Pragmatica'" font-size="16.5056">Cellery SDK</text>
+</svg>

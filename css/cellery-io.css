@@ -131,7 +131,7 @@ a.cLogo img {
 }
 
 .navbar-nav>li>a:hover {
-    color: #69b26d !important;
+    color: #57595d !important;
 }
 
 .navbar-nav>li.cActive>a {
@@ -236,9 +236,9 @@ ul.navbar-nav {
 }
 
 .cCelleryBoxHome {
-    background: #ffffff;
+    background: #f2f5f5;
     padding: 20px;
-    min-height: 470px;
+    min-height: 320px;
 }
 
 .cCelleryBoxHome img {
@@ -274,13 +274,46 @@ h2 {
 
 
 .cCelleryBoxHome h3 {
-    font-size: 18px;
-    font-weight: 400;
-    border-bottom: 1px solid  #69b26d;
+    font-size: 22px;
+    font-weight: 300;
+    border-bottom: 1px solid #69b26d;
     margin-bottom: 20px;
     padding-bottom: 8px;
     line-height: 24px;
-    color: #5a5a5e
+    color: #5a5a5e;
+    margin-top: 0;
+    padding-left: 86px;
+    background-position: left -3px;
+    background-repeat: no-repeat;
+    background-size: 70px;
+    line-height: 65px;
+    height: 80px;
+}
+
+
+.cCelleryBoxHome h3.box1 {
+    background-image: url("/img/create-cloud.svg");
+}
+
+.cCelleryBoxHome h3.box2 {
+    background-image: url("/img/agile-dev.svg");
+    line-height: 23px;
+    padding-top: 9px;
+}
+
+.cCelleryBoxHome h3.box3 {
+    background-image: url("/img/structure-secure.svg");
+    line-height: 23px;
+    padding-top: 9px;
+    background-position: left 0;
+}
+
+.cCelleryBoxHome h3.box4 {
+    background-image: url("/img/observable.svg");
+}
+
+.cCelleryBoxHome p {
+    padding-right: 0;
 }
 
 .cCelleryBoxHome h3.cOneline {
@@ -326,6 +359,7 @@ padding-left: 15px;
 
 .cDaigramContainerHome {
     text-align: center;
+    margin-top: 20px;
 }
 
 .cDaigramContainerHome img {
@@ -359,7 +393,9 @@ padding-left: 15px;
     
     display: inline-block;
 }
-
+.cCellery-io-Home-widget a.cTry:hover {
+    color: #57595d;
+}
 /*COLUMNS*/
 
 .cCellery-io-left-col {
@@ -584,7 +620,7 @@ h2.cMainH2Title {
 }
 
 .cDaigramContainerHome {
-    margin-top: 70px;
+    margin-top: 20px;
 }
 
 .cListContainerHome ul {
@@ -616,6 +652,14 @@ h2.cMainH2Title {
 
 
 
+.cDiagramBorder {
+    display: inline-block;
+    background-color: #fff;
+    padding: 30px;
+    width: 100%;
+}
+
+
 
 
 /*FOOTER*/
@@ -639,13 +683,11 @@ h2.cMainH2Title {
 }
 
 .cCelleryFooterLinks ul li a {
-    color:  #69b26d;
+    color: #57595d;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif !important;
-    font-weight: normal;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 1px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .cCelleryFooterSignUp p {
