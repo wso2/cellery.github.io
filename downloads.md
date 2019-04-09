@@ -75,9 +75,9 @@ title: Cellery Leran
             <div class="cStandaloneInstallers">
                 <h2>Installation Packages</h2>
                 <div class="cInstallers" style="width:100%;">
-                    <!-- <h3 class="release-version">Stable <span id="stableInfo">0.990.2 (Dec 30, 2018)</span></h3> -->
-                    <h3 class="release-version">Nightly <span id="nightlyInfo"></span></h3>
-                    <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cLeftTable">
+                    <h3 class="release-version">Stable <span id="stableInfo">(Apr 09, 2019)</span></h3>
+                    <!-- <h3 class="release-version">Nightly <span id="nightlyInfo"></span></h3> -->
+                    <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12 cLeftTable">
                         <div class="insPackages0container">
                             <table id="insPackages0">
     <tr>
@@ -89,16 +89,16 @@ title: Cellery Leran
         <td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td> -->
     </tr>
-    <!-- <tr>
-        <td style="width: 96%">ballerina-linux-installer-x64-0.990.2.deb</td>
+   <tr>
+        <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
         </td>
-        <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
+        <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td>
-        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.asc">asc</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.asc">asc</a></td> -->
     </tr>
-    <tr>
+    <!-- <tr>
         <td style="width: 96%">ballerina-macos-installer-x64-0.990.2.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
             <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-macos-installer-x64-0.990.2.pkg"><img src="../img/download-bg-green-fill.svg"></a>
@@ -120,17 +120,17 @@ title: Cellery Leran
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cRightTable">
-                        <div class="insPackages1container">
-                            <table id="insPackages1">
-    <tr>
+                   <div class="insPackages1container">
+                     <table id="insPackages1">
+    <!-- <tr>
         <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
             <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" ><img src="../img/download-bg-green-fill.svg"></a>
         </td>
-        <!-- <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.md5">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.md5">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.sha1">SHA-1</a></td>
-        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.asc">asc</a></td> -->
-    </tr>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.asc">asc</a></td> 
+    </tr> -->
     <!-- <tr>
         <td style="width: 96%">ballerina-vscode-plugin-0.990.2.vsix</td>
         <td style="width: 1%; white-space: nowrap;">
@@ -161,9 +161,9 @@ title: Cellery Leran
 </table>
           </div>
                     </div>
-                    <!-- <div class="clearfix"></div>
+               <div class="clearfix"></div>
                     <br>
-                    <div id="devPackContainer">
+                    <!-- <div id="devPackContainer">
                     <h3 class="release-version">RC <span id="devInfo"></span></h3>
                     <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cLeftTable">
                         <div class="devPackages0container">
@@ -175,13 +175,32 @@ title: Cellery Leran
                             <table id="devPackages1"></table>
                         </div>
                     </div></div>
-                    <div class="clearfix"></div>
-                    <br>
-                    <div id="nightlyPackContainer">
-                    <h3 class="release-version">Nightly <span id="nightlyInfo"></span></h3>
-                    <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cLeftTable">
+                    <div class="clearfix"></div> -->
+                    <!-- <br> -->
+                    <div id="nightlyPackContainer"> 
+                   <h3 class="release-version">Nightly (Apr 09, 2019)<span id="nightlyInfo"></span></h3> 
+                    <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12 cLeftTable">
                         <div class="nightlyPackages0container">
-                            <table id="nightlyPackages0"></table>
+                            <table id="nightlyPackages0">
+                              <tr>
+        <td style="width: 96%">cellery-ubuntu-x64-0.2.0-2019-04-09.deb</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-ubuntu-x64-0.2.0-2019-04-09.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td> -->
+    </tr>
+   <tr>
+        <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" ><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.asc">asc</a></td> -->
+    </tr>
+                            </table>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cRightTable">
@@ -189,7 +208,7 @@ title: Cellery Leran
                             <table id="nightlyPackages1"></table>
                         </div>
                     </div></div>
-                    <div class="clearfix"></div> -->
+                    <div class="clearfix"></div> 
                 </div>
             </div>            
         </div>
@@ -203,5 +222,16 @@ title: Cellery Leran
 
 .cStandaloneInstallers .cInstallers, .cPlugins .cInstallers {
     display:inline-block;
+}
+.cInstallers table tr td a.cDownloadLinkIcon img {
+    width:20px;
+}
+.cInstallers table tr td {
+    padding: 10px 7px 10px 7px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #585a5e;
+    border-bottom: solid .5px #a7a8ab;
+    vertical-align: top;
 }
 </style>
