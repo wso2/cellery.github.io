@@ -234,4 +234,8 @@ title: Cellery Leran
     border-bottom: solid .5px #a7a8ab;
     vertical-align: top;
 }
+.cStandaloneInstallers {
+    margin: 50px 0px 0 0;
+}
+
 </style>
