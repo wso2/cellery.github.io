@@ -73,20 +73,95 @@ title: Cellery Leran
         </div> -->
         <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12">
             <div class="cStandaloneInstallers">
-                <!--<h2>Installation Packages</h2>
-                <div class="cInstallers">
-                    <h3 class="release-version">Stable <span id="stableInfo">0.990.2 (Dec 30, 2018)</span></h3>
+                <h2>Installation Packages</h2>
+                <div class="cInstallers" style="width:100%;">
+                    <!-- <h3 class="release-version">Stable <span id="stableInfo">0.990.2 (Dec 30, 2018)</span></h3> -->
+                    <h3 class="release-version">Nightly <span id="nightlyInfo"></span></h3>
                     <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cLeftTable">
                         <div class="insPackages0container">
-                            <table id="insPackages0"><tr><td style="width: 96%">ballerina-windows-installer-x64-0.990.2.msi</td><td style="width: 1%; white-space: nowrap;"><a href="" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td><td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td><td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td></tr><tr><td style="width: 96%">ballerina-linux-installer-x64-0.990.2.deb</td><td style="width: 1%; white-space: nowrap;"><a href="" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.asc">asc</a></td></tr><tr><td style="width: 96%">ballerina-macos-installer-x64-0.990.2.pkg</td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-macos-installer-x64-0.990.2.pkg"><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.md5">md5</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.sha1">SHA-1</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.asc">asc</a></td></tr><tr><td style="width: 96%">ballerina-0.990.2.zip</td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-0.990.2.zip"><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.md5">md5</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.sha1">SHA-1</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.asc">asc</a></td></tr></table>
+                            <table id="insPackages0">
+    <tr>
+        <td style="width: 96%">cellery-ubuntu-x64-0.2.0-2019-04-09.deb</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-ubuntu-x64-0.2.0-2019-04-09.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td> -->
+    </tr>
+    <!-- <tr>
+        <td style="width: 96%">ballerina-linux-installer-x64-0.990.2.deb</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.asc">asc</a></td>
+    </tr>
+    <tr>
+        <td style="width: 96%">ballerina-macos-installer-x64-0.990.2.pkg</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-macos-installer-x64-0.990.2.pkg"><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.md5">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.sha1">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.asc">asc</a></td>
+    </tr>
+    <tr>
+        <td style="width: 96%">ballerina-0.990.2.zip</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-0.990.2.zip"><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.md5">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.sha1">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.asc">asc</a></td>
+    </tr> -->
+</table>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cRightTable">
                         <div class="insPackages1container">
-                            <table id="insPackages1"><tr><td style="width: 96%">ballerina-linux-installer-x64-0.990.2.rpm</td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-linux-installer-x64-0.990.2.rpm"><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.md5">md5</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.sha1">SHA-1</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.asc">asc</a></td></tr><tr><td style="width: 96%">ballerina-vscode-plugin-0.990.2.vsix</td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-vscode-plugin-0.990.2.vsix"><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.md5">md5</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.sha1">SHA-1</a></td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.asc">asc</a></td></tr><tr><td style="width: 96%">ballerina-intellij-idea-plugin</td><td style="width: 1%; white-space: nowrap;"><a href="https://plugins.jetbrains.com/plugin/9520-ballerina" target="_blank" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-intellij-idea-plugin-0.990.2"><img src="../img/right-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"></td><td style="width: 1%; white-space: nowrap;"></td><td style="width: 1%; white-space: nowrap;"></td></tr><tr><td style="width: 96%">ballerina-metrics-grafana-dashboard-prometheus.json</td><td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-metrics-grafana-dashboard-prometheus.json" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-metrics-grafana-dashboard-prometheus.json-0.990.2"><img src="../img/download-bg-green-fill.svg"></a></td><td style="width: 1%; white-space: nowrap;"></td><td style="width: 1%; white-space: nowrap;"></td><td style="width: 1%; white-space: nowrap;"></td></tr></table>
-                        </div>
+                            <table id="insPackages1">
+    <tr>
+        <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" ><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <!-- <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.md5">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.sha1">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.asc">asc</a></td> -->
+    </tr>
+    <!-- <tr>
+        <td style="width: 96%">ballerina-vscode-plugin-0.990.2.vsix</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-vscode-plugin-0.990.2.vsix"><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.md5">md5</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.sha1">SHA-1</a></td>
+        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.asc">asc</a></td>
+    </tr>
+    <tr>
+        <td style="width: 96%">ballerina-intellij-idea-plugin</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://plugins.jetbrains.com/plugin/9520-ballerina" target="_blank" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-intellij-idea-plugin-0.990.2"><img src="../img/right-bg-green-fill.svg"></a>
+        </td>
+        <td style="width: 1%; white-space: nowrap;"></td>
+        <td style="width: 1%; white-space: nowrap;"></td>
+        <td style="width: 1%; white-space: nowrap;"></td>
+    </tr>
+    <tr>
+        <td style="width: 96%">ballerina-metrics-grafana-dashboard-prometheus.json</td>
+        <td style="width: 1%; white-space: nowrap;">
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-metrics-grafana-dashboard-prometheus.json" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-metrics-grafana-dashboard-prometheus.json-0.990.2"><img src="../img/download-bg-green-fill.svg"></a>
+        </td>
+        <td style="width: 1%; white-space: nowrap;"></td>
+        <td style="width: 1%; white-space: nowrap;"></td>
+        <td style="width: 1%; white-space: nowrap;"></td>
+    </tr> -->
+</table>
+          </div>
                     </div>
-                    <div class="clearfix"></div>
+                    <!-- <div class="clearfix"></div>
                     <br>
                     <div id="devPackContainer">
                     <h3 class="release-version">RC <span id="devInfo"></span></h3>
@@ -114,9 +189,19 @@ title: Cellery Leran
                             <table id="nightlyPackages1"></table>
                         </div>
                     </div></div>
-                    <div class="clearfix"></div>
-                </div> -->
+                    <div class="clearfix"></div> -->
+                </div>
             </div>            
         </div>
     </div>
 </div>
+
+<style>
+#iCelleryFooter {
+    margin-top:80px;
+}
+
+.cStandaloneInstallers .cInstallers, .cPlugins .cInstallers {
+    display:inline-block;
+}
+</style>
