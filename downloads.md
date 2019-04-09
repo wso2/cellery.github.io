@@ -22,7 +22,7 @@ title: Cellery Leran
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDownloadsHeader">       
                 <div class="cFeaturedVersion">
-                    <h2>Current version: <span id="versionInfo">0.2.0 (Apr 09, 2019)</span></h2>
+                    <h2>Current version: <span id="versionInfo">0.1.0 (Feb 25, 2019)</span></h2>
                 </div>
             </div>
         </div>
@@ -40,10 +40,10 @@ title: Cellery Leran
                 </ul>
             </div>-->
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
-                <a id="packLinux" href="https://product-dist.cellery.io/nightly/0.2.0/cellery-ubuntu-x64-0.2.0-2019-04-09.deb" 
+                <a id="packLinux" href="https://github.com/wso2-cellery/sdk/releases/download/v0.1.0/cellery-ubuntu-x64-0.1.0.deb" 
                 class="cDownload" data-download="downloads" data-pack="">
                     <div>Linux</div>
-                    <div class="cSize">deb Package <span id="packLinuxName">(175mb)</span></div>
+                    <div class="cSize">deb Package <span id="packLinuxName">(8mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packLinuxMd5" href="">md5</a></li>
@@ -52,9 +52,9 @@ title: Cellery Leran
                 </ul>-->
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
-                <a id="packMac" href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownload" data-download="downloads" data-pack="">
+                <a id="packMac" href="https://github.com/wso2-cellery/sdk/releases/download/v0.1.0/cellery-macos-installer-x64-0.1.0.pkg" class="cDownload" data-download="downloads" data-pack="">
                     <div>MacOS</div>
-                    <div class="cSize">Installer pkg <span id="packMacName">(181mb)</span></div>
+                    <div class="cSize">Installer pkg <span id="packMacName">(7mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packMacMd5" href="">md5</a></li>
