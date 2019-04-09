@@ -27,7 +27,7 @@ title: Cellery Home
          <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try out cellery instantly</a>
          <div class="cVideoConatiner cBorderGray ">
  <div class="VideoR-one cGoToTop" id="videoClick_1" onclick="this.nextElementSibling.style.display = 'block'; this.style.display = 'none'">
-          <img src="/img/play2.svg"/>
+          <img src="/img/play.svg"/>
                 </div>
                 <div class="embed-responsive embed-responsive-16by9 " style="display:none">
 <div class="embed-container" id="video_1"></div>
