@@ -170,7 +170,7 @@ title: Cellery Home
             var video_div = video_div.split("_");
             var vcode = video_div[1];
 
-            $("#video_" + vcode).html('<iframe width="100%" height="373" src="https://www.youtube.com/embed/' + videos[vcode] + '?autoplay=1&wmode=transparent&VQ=HD1080" frameborder="0" allowfullscreen wmode="Opaque"></iframe>');
+            $("#video_" + vcode).html('<iframe width="100%" height="373" src="https://www.youtube.com/embed/' + videos[vcode] + '?autoplay=1&wmode=transparent&VQ=HD1080" frameborder="0" allowfullscreen wmode="Opaque" allow="autoplay"></iframe>');
             $("#video_" + vcode).show();
             $('.cPlayTitle').toggleClass('cPlay');
 
@@ -179,7 +179,6 @@ title: Cellery Home
 
         });
     </script>
-
  <style>
 .cVideoConatiner {
    background-image: url("/img/demo.jpg");
