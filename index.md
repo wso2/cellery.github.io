@@ -155,8 +155,7 @@ title: Cellery Home
    </div>
 </div>
 
-
-   <script>
+<script>
         $(document).ready(function() {
 
             $('.cCelleryDemo').addClass("cCelleryDemoClass");
@@ -183,7 +182,7 @@ title: Cellery Home
 
  <style>
 .cVideoConatiner {
-   background-image: url("/img/demo.gif");
+   background-image: url("/img/demo.jpg");
    background-repeat: no-repaet;
 }
 </style>
