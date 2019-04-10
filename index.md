@@ -24,10 +24,15 @@ title: Cellery Home
          </div>
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
-         <a class="cTry" href="">Try out cellery instantly</a>
-         <div class="cVideoConatiner cBorderGray">
-            <img src="/img/play.svg"/>
-         </div>
+         <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try out cellery instantly</a>
+         <div class="cVideoConatiner cBorderGray ">
+ <div class="VideoR-one cGoToTop" id="videoClick_1" onclick="this.nextElementSibling.style.display = 'block'; this.style.display = 'none'">
+          <img src="/img/play.svg"/>
+                </div>
+                <div class="embed-responsive embed-responsive-16by9 " style="display:none">
+<div class="embed-container" id="video_1"></div>
+                </div>
+</div>
       </div>
    </div>
 </div>
@@ -149,3 +154,36 @@ title: Cellery Home
       </ul>
    </div>
 </div>
+
+
+   <script>
+        $(document).ready(function() {
+
+            $('.cCelleryDemo').addClass("cCelleryDemoClass");
+
+        });
+
+        $('.VideoR-one').click(function() {
+
+            var videos = ["", "SkgrHUhK4SI"];
+
+            var video_div = $(this).attr('id');
+            var video_div = video_div.split("_");
+            var vcode = video_div[1];
+
+            $("#video_" + vcode).html('<iframe width="100%" height="373" src="https://www.youtube.com/embed/' + videos[vcode] + '?autoplay=1&wmode=transparent&VQ=HD1080" frameborder="0" allowfullscreen wmode="Opaque"></iframe>');
+            $("#video_" + vcode).show();
+            $('.cPlayTitle').toggleClass('cPlay');
+
+            $('.cVideoRow').addClass('cPLAY-VideoRow');
+            $('.cConVideoContainer').addClass('cPLAY-VideoContainer');
+
+        });
+    </script>
+
+ <style>
+.cVideoConatiner {
+   background-image: url("/img/demo.gif");
+   background-repeat: no-repaet;
+}
+</style>
