@@ -47,7 +47,7 @@ title: Cellery Home
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/create-cloud.svg"/>
                </div> -->
-               <h3 class="box3">Create and Combine</h3>
+               <h3 class="box1">Create and Combine</h3>
                <p>Cellery simplifies creating composite microservice apps. Use code instead of YAML to build, test and deploy composites on Kubernetes.</p>
             </div>
          </div> 
@@ -76,7 +76,7 @@ title: Cellery Home
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/observable.svg"/>
                </div> -->
-               <h3 class="box3">Manage and Observe</h3>
+               <h3 class="box4">Manage and Observe</h3>
                <p>Update and rollback cells. Cellery shows your composites as diagrams. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
             </div>
          </div>
