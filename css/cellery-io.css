@@ -293,12 +293,16 @@ h2 {
 
 .cCelleryBoxHome h3.box1 {
     background-image: url("/img/create-cloud.svg");
+    line-height: 23px;
+    padding-top: 9px;
+    background-position: left 0;
 }
 
 .cCelleryBoxHome h3.box2 {
     background-image: url("/img/agile-dev.svg");
     line-height: 23px;
     padding-top: 9px;
+    background-position: left 0;
 }
 
 .cCelleryBoxHome h3.box3 {
@@ -310,6 +314,9 @@ h2 {
 
 .cCelleryBoxHome h3.box4 {
     background-image: url("/img/observable.svg");
+    line-height: 23px;
+    padding-top: 9px;
+    background-position: left 0;
 }
 
 .cCelleryBoxHome p {
