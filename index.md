@@ -24,7 +24,7 @@ title: Cellery Home
          </div>
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
-         <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try out cellery instantly</a>
+         <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try it yourself ></a>
          <div class="cVideoConatiner cBorderGray ">
  <div class="VideoR-one cGoToTop" id="videoClick_1" onclick="this.nextElementSibling.style.display = 'block'; this.style.display = 'none'">
           <img src="/img/play.svg"/>
