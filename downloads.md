@@ -81,7 +81,7 @@ title: Cellery Leran
                         <div class="insPackages0container">
                             <table id="insPackages0">
     <tr>
-        <td style="width: 96%">cellery-ubuntu-x64-0.2.0-2019-04-09.deb</td>
+        <td style="width: 96%">cellery-ubuntu-x64-0.2.0.deb</td>
         <td style="width: 1%; white-space: nowrap;">
             <a href="https://product-dist.cellery.io/downloads/0.2.0/cellery-ubuntu-x64-0.2.0.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
         </td>
@@ -90,7 +90,7 @@ title: Cellery Leran
         <td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td> -->
     </tr>
    <tr>
-        <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
+        <td style="width: 96%">cellery-macos-installer-x64-0.2.0.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
             <a href="https://product-dist.cellery.io/downloads/0.2.0/cellery-macos-installer-x64-0.2.0.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
         </td>
