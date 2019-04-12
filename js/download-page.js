@@ -13,6 +13,10 @@ $(document).ready(function() {
         var version = nightly_pack['version'];
         var version_pack = version.replace(/ /g, "-").toLowerCase();
         var released_date = nightly_pack['release-date'];
+
+	const months = ["JAN", "FEB", "MAR","APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+	var current_datetime = new Date(released_date);
+	var released_date = months[current_datetime.getMonth()] + "current_datetime.getDate() " +  + "," + current_datetime.getFullYear();
 	$("#nightlyInfo").html(released_date);
 
         var nightly_packs =  [nightly_pack['linux-installer'], nightly_pack['macos-installer']];
