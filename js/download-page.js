@@ -14,7 +14,7 @@ $(document).ready(function() {
         var version_pack = version.replace(/ /g, "-").toLowerCase();
         var released_date = nightly_pack['release-date'];
 
-	const months = ["JAN", "FEB", "MAR","APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+	const months = ["Jan", "Feb", "Mar","Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 	var current_datetime = new Date(released_date);
 	var released_date = months[current_datetime.getMonth()] + " " + current_datetime.getDate() + "," + current_datetime.getFullYear();
 	$("#nightlyInfo").html(released_date);
