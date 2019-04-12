@@ -24,7 +24,7 @@ title: Cellery Home
          </div>
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
-         <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try out cellery instantly</a>
+         <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try it yourself ></a>
          <div class="cVideoConatiner cBorderGray ">
  <div class="VideoR-one cGoToTop" id="videoClick_1" onclick="this.nextElementSibling.style.display = 'block'; this.style.display = 'none'">
           <img src="/img/play.svg"/>
@@ -47,7 +47,7 @@ title: Cellery Home
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/create-cloud.svg"/>
                </div> -->
-               <h3 class="box3">Create and Combine</h3>
+               <h3 class="box1">Create and Combine</h3>
                <p>Cellery simplifies creating composite microservice apps. Use code instead of YAML to build, test and deploy composites on Kubernetes.</p>
             </div>
          </div> 
@@ -76,7 +76,7 @@ title: Cellery Home
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/observable.svg"/>
                </div> -->
-               <h3 class="box3">Manage and Observe</h3>
+               <h3 class="box4">Manage and Observe</h3>
                <p>Update and rollback cells. Cellery shows your composites as diagrams. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
             </div>
          </div>
@@ -155,8 +155,7 @@ title: Cellery Home
    </div>
 </div>
 
-
-   <script>
+<script>
         $(document).ready(function() {
 
             $('.cCelleryDemo').addClass("cCelleryDemoClass");
@@ -171,7 +170,7 @@ title: Cellery Home
             var video_div = video_div.split("_");
             var vcode = video_div[1];
 
-            $("#video_" + vcode).html('<iframe width="100%" height="373" src="https://www.youtube.com/embed/' + videos[vcode] + '?autoplay=1&wmode=transparent&VQ=HD1080" frameborder="0" allowfullscreen wmode="Opaque"></iframe>');
+            $("#video_" + vcode).html('<iframe width="100%" height="373" src="https://www.youtube.com/embed/' + videos[vcode] + '?autoplay=1&wmode=transparent&VQ=HD1080" frameborder="0" allowfullscreen wmode="Opaque" allow="autoplay"></iframe>');
             $("#video_" + vcode).show();
             $('.cPlayTitle').toggleClass('cPlay');
 
@@ -180,10 +179,9 @@ title: Cellery Home
 
         });
     </script>
-
  <style>
 .cVideoConatiner {
-   background-image: url("/img/demo.gif");
+   background-image: url("/img/demo.jpg");
    background-repeat: no-repaet;
 }
 </style>
