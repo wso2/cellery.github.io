@@ -54,7 +54,7 @@ title: Cellery Leran
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
                 <a id="packMac" href="https://product-dist.cellery.io/downloads/0.2.0/cellery-macos-installer-x64-0.2.0.pkg" class="cDownload" data-download="downloads" data-pack="">
                     <div>MacOS</div>
-                    <div class="cSize">Installer pkg <span id="packMacName">(221mb)</span></div>
+                    <div class="cSize">Installer pkg <span id="packMacName">(220mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packMacMd5" href="">md5</a></li>
