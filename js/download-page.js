@@ -16,7 +16,7 @@ $(document).ready(function() {
 
 	const months = ["Jan", "Feb", "Mar","Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 	var current_datetime = new Date(released_date);
-	var released_date = months[current_datetime.getMonth()] + " " + current_datetime.getDate() + "," + current_datetime.getFullYear();
+	var released_date = months[current_datetime.getMonth()] + " " + current_datetime.getDate() + ", " + current_datetime.getFullYear();
 	$("#nightlyInfo").html(released_date);
 
         var nightly_packs =  [nightly_pack['linux-installer'], nightly_pack['macos-installer']];
