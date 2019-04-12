@@ -3,7 +3,7 @@ $(document).ready(function() {
 //Nightly Packages
 	var nightly_pack = "";
 	var nightly_versions_json = "https://product-dist.cellery.io/nightly/nightly_release.json";
-	var nightly_download_url = "";		
+	var nightly_download_url = "https://product-dist.cellery.io/nightly/";		
 
     $("#nightlyPackContainer").hide();
 
