@@ -178,28 +178,11 @@ title: Cellery Leran
                     <div class="clearfix"></div> -->
                     <!-- <br> -->
                     <div id="nightlyPackContainer"> 
-                   <h3 class="release-version">Nightly (Apr 09, 2019)<span id="nightlyInfo"></span></h3> 
+                   <h3 class="release-version">Nightly (<span id="nightlyInfo"></span>)</h3> 
                     <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12 cLeftTable">
                         <div class="nightlyPackages0container">
                             <table id="nightlyPackages0">
-                              <tr>
-        <td style="width: 96%">cellery-ubuntu-x64-0.2.0-2019-04-09.deb</td>
-        <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-ubuntu-x64-0.2.0-2019-04-09.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
-        </td>
-        <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
-        <td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td>
-        <td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td> -->
-    </tr>
-   <tr>
-        <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
-        <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" ><img src="../img/download-bg-green-fill.svg"></a>
-        </td>
-        <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
-        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td>
-        <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.asc">asc</a></td> -->
-    </tr>
+                              
                             </table>
                         </div>
                     </div>
