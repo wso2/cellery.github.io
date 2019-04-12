@@ -4,7 +4,7 @@ title: Cellery Leran
 
 ---
 <link rel="stylesheet" href="/css/download-page.css"/>
-<script src="/js/download-page.js?latest"></script>
+<script src="/js/download-page.js?0.2.0"></script>
 <div class="row cBallerina-io-Gray-row">
     <div class="container">
         <div class="row">
