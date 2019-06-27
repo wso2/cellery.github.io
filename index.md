@@ -11,10 +11,16 @@ title: Cellery Home
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
-               <p>Cellery is a code-first approach to building, integrating, running and managing composite microservice applications on Kubernetes. Build, push/pull, run, scale and observe composites. Secure APIs by default. Code in any language.
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
+               <p>The use of microservices and/or serverless functions is exploding as organisations aim to get better agility and speed of development. This can quickly get out of control, creating a need for higher-level constructs that aggregate multiple microservices and serverless functions. 
 </p>
             </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
+               <p>Cellery is a code-first approach to building, integrating, running and managing composite microservice applications on Kubernetes. Build, push/pull, run, scale and observe composites. Secure APIs by default. Use your existing container images. Code in any language.
+</p>
+            </div>
+                        
+
             <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
             <div class="cHomeButtonContainer">
                <a class="cCellery-io-Home-main-download-button" href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">Get Started</a>
@@ -36,11 +42,43 @@ title: Cellery Home
       </div>
    </div>
 </div>
+<div class="row cCellery-io-Gray-row">
+   <div class="container" data-aos="fade-up">
+      <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+         <h2>How does Cellery work?</h2>
+      </div>
+      <!-- <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 cListContainerHome">
+         <ul>
+            <li> Write simple code that packages microservices together into cells, which are simply groups of microservices with well-defined APIs.</li>
+            <li>Compile cells into immutable images. Push and pull images from any docker repository.</li>
+            <li>Connect cells together into applications.</li>
+            <li>Your application is secure by default using mTLS and JWT tokens with embedded microgateways.</li>
+            <li>Manage and observe cells with simple tools, tracing, and monitoring.</li>
+            <li>Cellery extends Kubernetes and Istio, supporting multiple clouds including Google, AWS, Azure and OpenShift.</li>
+            <li>Cellery is completely open source and supports writing apps in any language</li>
+         </ul>
+      </div> -->
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
+       <div class="cDiagramBorder"  data-aos="fade-up">
+         <div class="cChinaAdvantageBlock" data-aos="fade-up">
+            <img src="/img/diagram/cellery-architecture_step-01.svg"/>
+         </div>
+         <div class="cChinaAdvantageBlock" data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" style="margin-top: -60px;">
+            <img src="/img/diagram/cellery-architecture_step-02.svg"/>
+         </div>
+         <div class="cChinaAdvantageBlock" data-aos="fade-up">
+            <img src="/img/diagram/cellery-architecture_step-03.svg"/>
+         </div>
+         </div>
+      </div>
+   </div>
+   </div>
+
 <div class="row cCellery-io-White-row" style="padding-top:0;">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h2>Why use Cellery?</h2>
+            <h2>What is Cellery?</h2>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" >
             <div class="cCelleryBoxHome">
@@ -94,37 +132,7 @@ title: Cellery Home
       <div class=""></div>
    </div>
 </div>
-<div class="row cCellery-io-Gray-row">
-   <div class="container" data-aos="fade-up">
-      <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-         <h2>How does Cellery work?</h2>
-      </div>
-      <!-- <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 cListContainerHome">
-         <ul>
-            <li> Write simple code that packages microservices together into cells, which are simply groups of microservices with well-defined APIs.</li>
-            <li>Compile cells into immutable images. Push and pull images from any docker repository.</li>
-            <li>Connect cells together into applications.</li>
-            <li>Your application is secure by default using mTLS and JWT tokens with embedded microgateways.</li>
-            <li>Manage and observe cells with simple tools, tracing, and monitoring.</li>
-            <li>Cellery extends Kubernetes and Istio, supporting multiple clouds including Google, AWS, Azure and OpenShift.</li>
-            <li>Cellery is completely open source and supports writing apps in any language</li>
-         </ul>
-      </div> -->
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
-       <div class="cDiagramBorder"  data-aos="fade-up">
-         <div class="cChinaAdvantageBlock" data-aos="fade-up">
-            <img src="/img/diagram/cellery-architecture_step-01.svg"/>
-         </div>
-         <div class="cChinaAdvantageBlock" data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" style="margin-top: -60px;">
-            <img src="/img/diagram/cellery-architecture_step-02.svg"/>
-         </div>
-         <div class="cChinaAdvantageBlock" data-aos="fade-up">
-            <img src="/img/diagram/cellery-architecture_step-03.svg"/>
-         </div>
-         </div>
-      </div>
-   </div>
-   </div>
+
 <!-- <div class="row cCellery-io-Gray-row" id="Get-Started">
 <div class="container">
    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
