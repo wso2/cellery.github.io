@@ -6,7 +6,7 @@ title: Cellery Home
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-Tag">
          <div>
-            <p class="cMainParagraph">Build, run, and manage code-first composites on Kubernetes</p>
+            <p class="cMainParagraph">Build, run, test, and manage code-first composites on Kubernetes</p>
          </div>
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
@@ -85,15 +85,15 @@ Use your existing container images, written in any language.
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h2>What is Cellery?</h2>
+            <h2>Capabilities</h2>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" >
             <div class="cCelleryBoxHome">
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/create-cloud.svg"/>
                </div> -->
-               <h3 class="box1">Create and Combine</h3>
-               <p>Cellery simplifies creating composite microservice apps. Use code instead of YAML to build, test and deploy composites on Kubernetes.</p>
+               <h3 class="box1">Compose</h3>
+               <p>Cellery simplifies composing microservice apps. Use code instead of YAML to build, test and deploy composites on Kubernetes. Re-use your existing container images.</p>
             </div>
          </div> 
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
@@ -101,8 +101,8 @@ Use your existing container images, written in any language.
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/structure-secure.svg"/>
                </div> -->
-               <h3 class="box3">Secure Building Blocks</h3>
-               <p>Cellery brings clear structure to composite applications, using secure APIs and dependency management. Single sign-on, tokens and mTLS by default.
+               <h3 class="box3">Secure</h3>
+               <p>Cellery apps are secure by default, using secured APIs, single sign-on, tokens, policy-based access control and mTLS.
 </p>
             </div>
          </div>
@@ -111,8 +111,8 @@ Use your existing container images, written in any language.
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/agile-dev.svg"/>
                </div> -->
-               <h3 class="box2">Develop and Operate</h3>
-               <p>Cellery is designed  around agile development teams and DevOps practices. Push, pull and run composite apps in a single step. Use any language to write your microservices.
+               <h3 class="box2">Operate</h3>
+               <p>Cellery is designed around DevOps practices. Build, push, pull, test and run composite apps with the CLI. Deploy and update  using blue/green and canary deployments.
 </p>
             </div>
          </div>
@@ -121,8 +121,8 @@ Use your existing container images, written in any language.
                <!-- <div class="cCelleryBoxImg">
                   <img src="/img/observable.svg"/>
                </div> -->
-               <h3 class="box4">Manage and Observe</h3>
-               <p>Update and rollback cells. Cellery shows your composites as diagrams. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
+               <h3 class="box4">Observe</h3>
+               <p>Cellery visualises your composites as diagrams. At runtime these diagrams become observable with monitoring and tracing.</p>
             </div>
          </div>
          <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
@@ -164,6 +164,7 @@ Use your existing container images, written in any language.
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cell-reference.md" target="_blank">How to code cells</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cli-reference.md" target="_blank">How to use the CLI</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-architecture.md" target="_blank">Architecture</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-philosophy.md" target="_blank">Philosophy</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-and-kubernetes.md" target="_blank">How Cellery 
         works with Kubernetes</a></li>
       </ul>
