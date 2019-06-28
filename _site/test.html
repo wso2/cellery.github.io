@@ -65,12 +65,18 @@
         </script>
 
 
-
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
   </head>
   <body>
 
 
-
+      <link rel="stylesheet" href="/css/aos.css">
+      <script src="/js/aos.js"></script>
+      <script>
+         AOS.init({
+             duration: 1200
+         });
+      </script>
 
       <!-- 
 
@@ -137,90 +143,159 @@
    </div>
 </div>
 
-      <div class="row cCellery-io-White-row">
-          <div class="container">
-              <div class="row">
-                  <!-- <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 cCellery-io-Home-Left-col">
-                      <div class="cCellery-io-docs-left-nav-container">
-                          <div class="cSideBar-Button"><img src="/img/sidebar.svg" /></div>
-                          <div class="cCellery-io-docs-left-nav-box">
-                              <div class="cCellery-io-docs-Title">TABLE OF CONTENTS</div>
-                              <ul>
-  <li><a href="#community">Community</a>
-    <ul>
-      <li><a href="#preparing-to-upgrade">Preparing to upgrade</a></li>
-      <li><a href="#upgrading-the-databaseregistry">Upgrading the database/registry</a></li>
-      <li><a href="#upgrading-the-configurations">Upgrading the configurations</a></li>
-      <li><a href="#testing-the-upgrade">Testing the upgrade</a></li>
-    </ul>
-  </li>
-</ul>
-                          </div>
-                      </div>
-                  </div> -->
-                  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-Middle-col">
-                      <div class="cCellery-io-breadcrumbs">
-                    
-                      </div>
-                      <div class="cCellery-io-docs-content-container">
-                          <div class="wy-nav-content">
-                              <div class="rst-content">
-  
-                                  <div role="main">
-                                      <div class="section">
-                                        
-    <h1 id="community">Community</h1>
-
-<blockquote>
-  <p>Use this template to create an upgrade guide for each release. Change the placeholders in the text below.</p>
-</blockquote>
-
-<p>The followings steps describe how to upgrade from <code class="highlighter-rouge">&lt;Previous product version&gt;</code> to <code class="highlighter-rouge">&lt;Current product version&gt;</code>. To upgrade from a version older than <code class="highlighter-rouge">&lt;Previous product version&gt;</code>, start from the documentation that was released immediately after your current release and upgrade incrementally.</p>
-
-<p>If you want to move your current product configurations to a different environment (e.g., from Test to Production) within the same product version, see the <code class="highlighter-rouge">&lt;link to migration instructions in the product's documentation&gt;</code>.</p>
-
-<h2 id="preparing-to-upgrade">Preparing to upgrade</h2>
-
-<ul>
-  <li>Provide any recommendations before you begin (e.g., what third-party software is recommended to be upgraded along with this, recommended time of migration such as low-traffic periods in the system, etc.)</li>
-  <li>Describe limitations and incompatibilities, if any.</li>
-  <li>Describe how to back up the databases.</li>
-  <li>Describe the expected system downtime.</li>
-</ul>
-
-<h2 id="upgrading-the-databaseregistry">Upgrading the database/registry</h2>
-
-<blockquote>
-  <p>Give step-by-step instructions on what databases to change and what changes to do in each database.</p>
-</blockquote>
-
-<h2 id="upgrading-the-configurations">Upgrading the configurations</h2>
-
-<ul>
-  <li>Describe the config files and applications that can simply be moved from the older version to the new version without being changed. Include the following:</li>
-  <li>How to move the applications, tenants, workflows, user stores etc. (You can have separate subsections for each type. These subsections</li>
-  <li>may vary depending on the product.)</li>
-  <li>How to move the configuration files. (Can the users simply override the existing files, or do we have to warn them of any configurations</li>
-  <li>that might be overridden if they copy/paste?)</li>
-</ul>
-
-<h2 id="testing-the-upgrade">Testing the upgrade</h2>
-
-<blockquote>
-  <p>Mention what tests the user should run to make sure that the upgrade has not caused any issues in the system.</p>
-</blockquote>
-
-
-                                      </div>
-                                  </div>
-  
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
+      <div class="row cCellery-io-White-row cCelleryIntro" style="padding-top:0;">
+   <div class="container">
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-Tag">
+   <div>
+               <p class="cMainParagraph">Build, run, and manage structured microservice applications</p>
+            </div>
+    </div>
+      <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
+               <p>Cellery makes it faster and simpler to build, test, deploy, run and manage microservice applications. Cellery helps structure cloud native applications using APIs and clear dependencies. Cellery is open source and supports all languages.</p>
+            </div>
+            <!-- <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p> -->
+            <div class="cHomeButtonContainer">
+               <a class="cCellery-io-Home-main-download-button" href="#Get-Started">Get Started</a>
+            </div>
+            <!-- <p class="cCellery-io-Home-OS">Distributions available </br>for Linux, OS X and Windows</p> -->
+            <!-- <hr class="cHr"> -->
+         </div>
       </div>
+      <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Right-col cCellery-io-Home-widget">
+      <a class="cTry" href="">Try out cellery instantly</a>
+         <div class="cVideoConatiner cBorderGray">
+            <img src="/img/play.svg" />
+         </div>
+      </div>
+   </div>
+</div>
+<p>&lt;</p>
+<div class="row cCellery-io-Gray-row ">
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h2>Why use Cellery?</h2>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+            <div class="cCelleryBoxHome">
+            <div class="cCelleryBoxImg">
+               <img src="/img/create-cloud.svg" />
+              </div>
+               <h3>Quickly create cloud native apps</h3>
+               <p>Cellery simplifies creating cloud native applications. Using code instead of YAML, build and deploy apps on Kubernetes. Use any language to write you apps.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 ">
+            <div class="cCelleryBoxHome">
+               <div class="cCelleryBoxImg">
+               <img src="/img/agile-dev.svg" />
+               </div>
+               <h3 class="cOneline">Agile Development</h3>
+               <p>Cellery is designed  around agile development and DevOps practices. Push and pull complex applications in a single step.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 ">
+            <div class="cCelleryBoxHome">
+               <div class="cCelleryBoxImg">
+               <img src="/img/structure-secure.svg" />
+               </div>
+               <h3>Structure and Secure Microservice Applications</h3>
+               <p>Cellery brings simple clear structure to microservice applications, using secure APIs and dependency management.</p>
+            </div>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 ">
+            <div class="cCelleryBoxHome">
+               <div class="cCelleryBoxImg">
+             <img src="/img/observable.svg" />
+               </div>
+               <h3 class="cOneline">Observable</h3>
+               <p>Cellery generates diagrams showing how your microservices fit together. At runtime these diagrams automatically become observable with monitoring and tracing.</p>
+            </div>
+         </div>
+         <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cCelleryLinksomeContainer">
+            <ul>
+               <li>
+                  <a href="">Try out Cellery on Katacoda</a>
+               </li>
+               <li>
+                  <a href="">Get started with Cellery on GCP or Kubernetes</a>
+               </li>
+        </ul>
+         </div> -->
+      </div>
+      <div class=""></div>
+   </div>
+</div>
+<div class="row cCellery-io-White-row">
+   <div class="container">
+   <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+   <h2>How does Cellery work?</h2>
+   </div>
+   <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 cListContainerHome">
+   <ul>
+  <li> Write simple code that packages microservices together into cells, which are simply groups of microservices with well-defined APIs.</li>
+  <li>Compile cells into immutable images. Push and pull images from any docker repository.</li>
+  <li>Connect cells together into applications.</li>
+  <li>Your application is secure by default using mTLS and JWT tokens with embedded microgateways.</li>
+  <li>Manage and observe cells with simple tools, tracing, and monitoring.</li>
+  <li>Cellery extends Kubernetes and Istio, supporting multiple clouds including Google, AWS, Azure and OpenShift.</li>
+  <li>Cellery is completely open source and supports writing apps in any language</li>
+   </ul>
+   </div>
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
+
+  <div class="cChinaAdvantageBlock" data-aos="fade-right">
+  <img src="/img/structure-secure.svg" />
+  </div>
+
+  <div class="cChinaAdvantageBlock" data-aos="fade-right">
+  <img src="/img/structure-secure.svg" />
+  </div>
+
+<div class="cChinaAdvantageBlock" data-aos="fade-right">
+  <img src="/img/structure-secure.svg" />
+  </div>
+
+  <div class="cChinaAdvantageBlock" data-aos="fade-right">
+  <img src="/img/structure-secure.svg" />
+  </div>
+
+   </div>
+</div>
+</div>
+<div class="row cCellery-io-Gray-row" id="Get-Started">
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome">
+      <h2>Get Started</h2>
+     </div>
+ </div>
+<div class="row cCellery-io-White-row">
+   <div class="container">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
+      <h2>Join the Community</h2>
+            <ul>
+      <li><a href="">Cellery on Github</a></li>
+<li><a href="">Docs &amp; Samples</a></li>
+<li><a href="">Cellery mailing list</a></li>
+<li><a href="">Contribution</a></li>
+</ul>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
+      <h2>Docs</h2>
+      <ul>
+       <li><a href="">CLI reference</a></li>
+<li><a href="">Cell reference</a></li>
+<li><a href="">Architecture</a></li>
+<li><a href="">Spec</a></li>
+<li><a href="">How Cellery maps to Kubernetes</a></li>
+      </ul>
+      </div>
+ </div>
+</div></div>
+
+
 
 
 

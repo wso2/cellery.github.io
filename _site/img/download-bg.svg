@@ -6,12 +6,12 @@
 <g>
 	<g>
 		<g>
-			<line fill="none" stroke="#29ABE0" stroke-width="1.5" stroke-miterlimit="10" x1="13.902" y1="6.759" x2="13.902" y2="19.42"/>
+			<line fill="none" stroke="#69B26D" stroke-width="1.5" stroke-miterlimit="10" x1="13.902" y1="6.759" x2="13.902" y2="19.42"/>
 			<g>
-				<polygon fill="#29ABE0" points="7.768,14.449 8.866,13.426 13.901,18.844 18.937,13.426 20.036,14.449 13.901,21.046 				"/>
+				<polygon fill="#69B26D" points="7.768,14.449 8.866,13.426 13.901,18.844 18.937,13.426 20.036,14.449 13.901,21.046 				"/>
 			</g>
 		</g>
 	</g>
-	<circle fill="none" stroke="#29ABE0" stroke-width="1.5" stroke-miterlimit="10" cx="13.902" cy="13.902" r="13.152"/>
+	<circle fill="none" stroke="#69B26D" stroke-width="1.5" stroke-miterlimit="10" cx="13.902" cy="13.902" r="13.152"/>
 </g>
 </svg>
