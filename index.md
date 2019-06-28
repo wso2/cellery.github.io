@@ -12,11 +12,18 @@ title: Cellery Home
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-content-wraper">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
-               <p>The use of microservices and/or serverless functions is exploding as organisations aim to get better agility and speed of development. This can quickly get out of control, creating a need for higher-level constructs that aggregate multiple microservices and serverless functions. 
+               <p>The use of microservices and serverless functions is exploding as organizations aim to increase speed of development and improve scalability.
+This can quickly get out of control, creating a need for higher-level constructs,
+which aggregate multiple microservices and serverless functions into re-usable building blocks. We call these <i>cells</i>. 
+
+
 </p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-main-instructions cLeft-pading-none">
-               <p>Cellery is a code-first approach to building, integrating, running and managing composite microservice applications on Kubernetes. Build, push/pull, run, scale and observe composites. Secure APIs by default. Use your existing container images. Code in any language.
+               <p>Cellery is a code-first approach to building, integrating, running and managing composite applications on Kubernetes. 
+Build, push/pull, test, deploy, update, scale and observe cells. Create secure APIs by default. 
+Use your existing container images, written in any language.
+
 </p>
             </div>
                         
