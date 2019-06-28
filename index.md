@@ -81,7 +81,7 @@ Use your existing container images, written in any language.
    </div>
    </div>
 
-<div class="row cCellery-io-White-row" style="padding-top:0;">
+<div class="row cCellery-io-White-row">
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12  cCelleryBoxHomeContainer">
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
