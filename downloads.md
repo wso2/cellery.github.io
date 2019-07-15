@@ -43,7 +43,7 @@ title: Cellery Leran
                 <a id="packLinux" href="https://product-dist.cellery.io/downloads/0.3.0/cellery-ubuntu-x64-0.3.0.deb" 
                 class="cDownload" data-download="downloads" data-pack="">
                     <div>Linux</div>
-                    <div class="cSize">deb Package <span id="packLinuxName">(13mb)</span></div>
+                    <div class="cSize">deb Package <span id="packLinuxName">(15mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packLinuxMd5" href="">md5</a></li>
@@ -54,7 +54,7 @@ title: Cellery Leran
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
                 <a id="packMac" href="https://product-dist.cellery.io/downloads/0.3.0/cellery-macos-installer-x64-0.3.0.pkg" class="cDownload" data-download="downloads" data-pack="">
                     <div>MacOS</div>
-                    <div class="cSize">Installer pkg <span id="packMacName">(16mb)</span></div>
+                    <div class="cSize">Installer pkg <span id="packMacName">(18mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packMacMd5" href="">md5</a></li>
