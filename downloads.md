@@ -75,7 +75,7 @@ title: Cellery Leran
             <div class="cStandaloneInstallers">
                 <h2>Installation Packages</h2>
                 <div class="cInstallers" style="width:100%;">
-                    <h3 class="release-version">Stable <span id="stableInfo">(Jul 22, 2019)</span></h3>
+                    <h3 class="release-version">Stable <span id="stableInfo">(Jul 14, 2019)</span></h3>
                     <!-- <h3 class="release-version">Nightly <span id="nightlyInfo"></span></h3> -->
                     <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12 cLeftTable">
                         <div class="insPackages0container">
