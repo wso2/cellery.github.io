@@ -161,7 +161,7 @@ Use your existing container images, written in any language.
       <ul>
         <li><a href="https://github.com/wso2-cellery/samples" target="_blank">Samples</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/README.md" target="_blank">Getting started</a></li>
-        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cell-reference.md" target="_blank">How to code cells</a></li>
+        <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-syntax.md" target="_blank">How to code cells</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cli-reference.md" target="_blank">How to use the CLI</a></li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-architecture.md" target="_blank">Architecture</a></li>
         <!-- <li><a href="https://github.com/wso2-cellery/sdk/blob/master/docs/cellery-philosophy.md" target="_blank">Philosophy</a></li> -->
