@@ -245,7 +245,7 @@ ul.wy-breadcrumbs {
 }
 
 #iBanner {
-    display: none;
+    display: block;
 }
 
 #iMainNavigation.cShowBanner {
