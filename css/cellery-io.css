@@ -1341,6 +1341,8 @@ pre code {
     padding-top: 10px;
     font-weight: 500;
     letter-spacing: 0.5px;
+    position: sticky;
+    z-index: 99999999;
 }
 
 .cCelleryConBanner {
@@ -1651,4 +1653,10 @@ a.cFooterBanner-link {
 .nav-logo {
     height: 20px;
     margin-top: -6px;
+}
+
+.community-list-svg {
+    height: 20px;
+    margin-right: 5px;
+    margin-top: -5px;
 }
