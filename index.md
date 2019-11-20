@@ -153,9 +153,12 @@ Use your existing container images, written in any language.
       <ul>
         <li><img src="../img/slack-logo.svg" class="community-list-svg"/><a href="https://join.slack.com/t/cellery-io/shared_invite/enQtNzkwMzI4NjE2MDA1LThkZTI2ZjQ2OWEzNmIwZWQ5ZDg3MGFmNWZiYmY3MWVmZTRiMjdjZDZlMmUyNmY4YmNmYjQ0MDRlZDEzNDg3N2U" target="_blank">Slack</a></li>
         <li><img src="../img/twitter-logo.svg" class="community-list-svg"/><a href="https://twitter.com/cellery_io" target="_blank">Twitter</a></li>
-        <li><img src="../img/google-groups.svg" class="community-list-svg"/><a href="https://groups.google.com/forum/#!forum/wso2-cellery-dev" target="_blank">Google group</a></li>
+        <li><img src="../img/google-groups.svg" class="community-list-svg"/><a href="https://groups.google.com/forum/#!forum/wso2-cellery-dev" target="_blank">Mailing list</a></li>
         <li><img src="../img/medium-logo.svg" class="community-list-svg"/><a href="https://medium.com/wso2-cellery" target="_blank">Medium</a></li>
         <li><img src="../img/github-logo-green.svg" class="community-list-svg"/><a href="https://github.com/wso2-cellery/" target="_blank">Github</a></li>
+        <li><img src="../img/zoomus-icon.svg" class="community-list-svg"/><a href="https://docs.google.com/document/d/1Ndj3Beh-iRgLKxGx76_t2AQ_67ZhPS_aKCbm27GQ_ms/edit?pli=1#heading=h.j5r8jmg8lp6w" target="_blank">Bi-weekly community meeting</a>
+            <span class="community-text"> (Wednesdays 09:30 PM IST/ 09:00 AM PDT)</span>
+        </li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md" target="_blank">How to contribute</a></li>
       </ul>
       </div>

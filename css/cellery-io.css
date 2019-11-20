@@ -1660,3 +1660,9 @@ a.cFooterBanner-link {
     margin-right: 5px;
     margin-top: -5px;
 }
+
+.community-text {
+    font-size: 13px;
+    margin-left: 3px;
+    font-weight: 400;
+}
