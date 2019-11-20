@@ -22,7 +22,7 @@ title: Cellery Leran
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDownloadsHeader">       
                 <div class="cFeaturedVersion">
-                    <h2>Current version: <span id="versionInfo">0.4.0 (Oct 07, 2019)</span></h2>
+                    <h2>Current version: <span id="versionInfo">0.5.0 (Nov 20, 2019)</span></h2>
                 </div>
             </div>
         </div>
@@ -40,10 +40,10 @@ title: Cellery Leran
                 </ul>
             </div>-->
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
-                <a id="packLinux" href="https://product-dist.cellery.io/downloads/0.4.0/cellery-ubuntu-x64-0.4.0.deb" 
+                <a id="packLinux" href="https://product-dist.cellery.io/downloads/0.5.0/cellery-ubuntu-x64-0.5.0.deb" 
                 class="cDownload" data-download="downloads" data-pack="">
                     <div>Linux</div>
-                    <div class="cSize">deb Package <span id="packLinuxName">(15mb)</span></div>
+                    <div class="cSize">deb Package <span id="packLinuxName">(23mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packLinuxMd5" href="">md5</a></li>
@@ -52,9 +52,9 @@ title: Cellery Leran
                 </ul>-->
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 cDownloadMiddle">
-                <a id="packMac" href="https://product-dist.cellery.io/downloads/0.4.0/cellery-macos-installer-x64-0.4.0.pkg" class="cDownload" data-download="downloads" data-pack="">
+                <a id="packMac" href="https://product-dist.cellery.io/downloads/0.5.0/cellery-macos-installer-x64-0.5.0.pkg" class="cDownload" data-download="downloads" data-pack="">
                     <div>MacOS</div>
-                    <div class="cSize">Installer pkg <span id="packMacName">(18mb)</span></div>
+                    <div class="cSize">Installer pkg <span id="packMacName">(26mb)</span></div>
                 </a>
                 <!--<ul class="cDiwnloadSubLinks">
                     <li><a id="packMacMd5" href="">md5</a></li>
@@ -75,24 +75,24 @@ title: Cellery Leran
             <div class="cStandaloneInstallers">
                 <h2>Installation Packages</h2>
                 <div class="cInstallers" style="width:100%;">
-                    <h3 class="release-version">Stable <span id="stableInfo">(Oct 07, 2019)</span></h3>
+                    <h3 class="release-version">Stable <span id="stableInfo">(Nov 20, 2019)</span></h3>
                     <!-- <h3 class="release-version">Nightly <span id="nightlyInfo"></span></h3> -->
                     <div class="col-xs-12 col-sm-16 col-md-12 col-lg-12 cLeftTable">
                         <div class="insPackages0container">
                             <table id="insPackages0">
     <tr>
-        <td style="width: 96%">cellery-ubuntu-x64-0.4.0.deb</td>
+        <td style="width: 96%">cellery-ubuntu-x64-0.5.0.deb</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/downloads/0.4.0/cellery-ubuntu-x64-0.4.0.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.cellery.io/downloads/0.5.0/cellery-ubuntu-x64-0.5.0.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
         </td>
         <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="">asc</a></td> -->
     </tr>
    <tr>
-        <td style="width: 96%">cellery-macos-installer-x64-0.4.0.pkg</td>
+        <td style="width: 96%">cellery-macos-installer-x64-0.5.0.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/downloads/0.4.0/cellery-macos-installer-x64-0.4.0.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.cellery.io/downloads/0.5.0/cellery-macos-installer-x64-0.5.0.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
         </td>
         <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td>
