@@ -273,3 +273,8 @@ pre code {
         border-top: 0;
     }
 }
+
+.iBannerLink, .iBannerLink:hover, .iBannerLink:active, .iBannerLink:focus{
+    color: #43AB00;
+    text-decoration: none;
+}
