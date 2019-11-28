@@ -40,7 +40,7 @@ Use your existing container images, written in any language.
          <a class="cTry" href="https://www.katacoda.com/wso2/courses/cellery" target="_blank">Try it yourself ></a>
          <div class="cVideoConatiner cBorderGray ">
  <div class="VideoR-one cGoToTop" id="videoClick_1" onclick="this.nextElementSibling.style.display = 'block'; this.style.display = 'none'">
-          <img src="/img/play.svg"/>
+          <img src="{{site.baseurl}}/img/play.svg"/>
                 </div>
                 <div class="embed-responsive embed-responsive-16by9 " style="display:none">
 <div class="embed-container" id="video_1"></div>
@@ -68,13 +68,13 @@ Use your existing container images, written in any language.
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cDaigramContainerHome">
        <div class="cDiagramBorder"  data-aos="fade-up">
          <div class="cChinaAdvantageBlock" data-aos="fade-up">
-            <img src="/img/diagram/cellery-architecture_step-01.svg"/>
+            <img src="{{site.baseurl}}/img/diagram/cellery-architecture_step-01.svg"/>
          </div>
          <div class="cChinaAdvantageBlock" data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" style="margin-top: -60px;">
-            <img src="/img/diagram/cellery-architecture_step-02.svg"/>
+            <img src="{{site.baseurl}}/img/diagram/cellery-architecture_step-02.svg"/>
          </div>
          <div class="cChinaAdvantageBlock" data-aos="fade-up">
-            <img src="/img/diagram/cellery-architecture_step-03.svg"/>
+            <img src="{{site.baseurl}}/img/diagram/cellery-architecture_step-03.svg"/>
          </div>
          </div>
       </div>
@@ -90,7 +90,7 @@ Use your existing container images, written in any language.
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" >
             <div class="cCelleryBoxHome">
                <!-- <div class="cCelleryBoxImg">
-                  <img src="/img/create-cloud.svg"/>
+                  <img src="{{site.baseurl}}/img/create-cloud.svg"/>
                </div> -->
                <h3 class="box1">Compose</h3>
                <p>Cellery simplifies composing microservice apps. Use code instead of YAML to build, test and deploy composites on Kubernetes. Re-use your existing container images.</p>
@@ -99,7 +99,7 @@ Use your existing container images, written in any language.
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
             <div class="cCelleryBoxHome">
                <!-- <div class="cCelleryBoxImg">
-                  <img src="/img/structure-secure.svg"/>
+                  <img src="{{site.baseurl}}/img/structure-secure.svg"/>
                </div> -->
                <h3 class="box3">Secure</h3>
                <p>Cellery apps are secure by default, using secured APIs, single sign-on, tokens, policy-based access control and mTLS.
@@ -109,7 +109,7 @@ Use your existing container images, written in any language.
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
             <div class="cCelleryBoxHome">
                <!-- <div class="cCelleryBoxImg">
-                  <img src="/img/agile-dev.svg"/>
+                  <img src="{{site.baseurl}}/img/agile-dev.svg"/>
                </div> -->
                <h3 class="box2">Operate</h3>
                <p>Cellery is designed around DevOps practices. Build, push, pull, test and run composite apps with the CLI. Deploy and update  using blue/green and canary deployments.
@@ -119,7 +119,7 @@ Use your existing container images, written in any language.
          <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 " >
             <div class="cCelleryBoxHome">
                <!-- <div class="cCelleryBoxImg">
-                  <img src="/img/observable.svg"/>
+                  <img src="{{site.baseurl}}/img/observable.svg"/>
                </div> -->
                <h3 class="box4">Observe</h3>
                <p>Cellery visualises your composites as diagrams. At runtime these diagrams become observable with monitoring and tracing.</p>
@@ -151,12 +151,12 @@ Use your existing container images, written in any language.
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 cListContainerHome cLinksList">
       <h2 id="community">Join the Community</h2>
       <ul>
-        <li><img src="../img/slack-logo.svg" class="community-list-svg"/><a href="https://join.slack.com/t/cellery-io/shared_invite/enQtNzkwMzI4NjE2MDA1LThkZTI2ZjQ2OWEzNmIwZWQ5ZDg3MGFmNWZiYmY3MWVmZTRiMjdjZDZlMmUyNmY4YmNmYjQ0MDRlZDEzNDg3N2U" target="_blank">Slack</a></li>
-        <li><img src="../img/twitter-logo.svg" class="community-list-svg"/><a href="https://twitter.com/cellery_io" target="_blank">Twitter</a></li>
-        <li><img src="../img/google-groups.svg" class="community-list-svg"/><a href="https://groups.google.com/forum/#!forum/wso2-cellery-dev" target="_blank">Mailing list</a></li>
-        <li><img src="../img/medium-logo.svg" class="community-list-svg"/><a href="https://medium.com/wso2-cellery" target="_blank">Medium</a></li>
-        <li><img src="../img/github-logo-green.svg" class="community-list-svg"/><a href="https://github.com/wso2-cellery/" target="_blank">Github</a></li>
-        <li><img src="../img/zoomus-icon.svg" class="community-list-svg"/><a href="https://docs.google.com/document/d/1Ndj3Beh-iRgLKxGx76_t2AQ_67ZhPS_aKCbm27GQ_ms/edit?pli=1#heading=h.j5r8jmg8lp6w" target="_blank">Bi-weekly community meeting</a>
+        <li><img src="../{{site.baseurl}}/img/slack-logo.svg" class="community-list-svg"/><a href="https://join.slack.com/t/cellery-io/shared_invite/enQtNzkwMzI4NjE2MDA1LThkZTI2ZjQ2OWEzNmIwZWQ5ZDg3MGFmNWZiYmY3MWVmZTRiMjdjZDZlMmUyNmY4YmNmYjQ0MDRlZDEzNDg3N2U" target="_blank">Slack</a></li>
+        <li><img src="../{{site.baseurl}}/img/twitter-logo.svg" class="community-list-svg"/><a href="https://twitter.com/cellery_io" target="_blank">Twitter</a></li>
+        <li><img src="../{{site.baseurl}}/img/google-groups.svg" class="community-list-svg"/><a href="https://groups.google.com/forum/#!forum/wso2-cellery-dev" target="_blank">Mailing list</a></li>
+        <li><img src="../{{site.baseurl}}/img/medium-logo.svg" class="community-list-svg"/><a href="https://medium.com/wso2-cellery" target="_blank">Medium</a></li>
+        <li><img src="../{{site.baseurl}}/img/github-logo-green.svg" class="community-list-svg"/><a href="https://github.com/wso2-cellery/" target="_blank">Github</a></li>
+        <li><img src="../{{site.baseurl}}/img/zoomus-icon.svg" class="community-list-svg"/><a href="https://docs.google.com/document/d/1Ndj3Beh-iRgLKxGx76_t2AQ_67ZhPS_aKCbm27GQ_ms/edit?pli=1#heading=h.j5r8jmg8lp6w" target="_blank">Bi-weekly community meeting</a>
             <span class="community-text"> (Wednesdays 09:30 PM IST/ 09:00 AM PDT)</span>
         </li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md" target="_blank">How to contribute</a></li>
@@ -203,7 +203,7 @@ Use your existing container images, written in any language.
     </script>
  <style>
 .cVideoConatiner {
-   background-image: url("/img/demo.jpg");
+   background-image: url("/{{site.baseurl}}/img/demo.jpg");
    background-repeat: no-repaet;
 }
 </style>

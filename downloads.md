@@ -3,7 +3,7 @@ layout: cellery-page
 title: Cellery Leran
 
 ---
-<link rel="stylesheet" href="/css/download-page.css"/>
+<link rel="stylesheet" href="{{site.baseurl}}/css/download-page.css"/>
 <script src="/js/download-page.js?02"></script>
 <div class="row cBallerina-io-Gray-row">
     <div class="container">
@@ -83,7 +83,7 @@ title: Cellery Leran
     <tr>
         <td style="width: 96%">cellery-ubuntu-x64-0.5.0.deb</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/downloads/0.5.0/cellery-ubuntu-x64-0.5.0.deb" class="cDownloadLinkIcon"><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.cellery.io/downloads/0.5.0/cellery-ubuntu-x64-0.5.0.deb" class="cDownloadLinkIcon"><img src="../{{site.baseurl}}/img/download-bg-green-fill.svg"></a>
         </td>
         <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="">SHA-1</a></td>
@@ -92,7 +92,7 @@ title: Cellery Leran
    <tr>
         <td style="width: 96%">cellery-macos-installer-x64-0.5.0.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/downloads/0.5.0/cellery-macos-installer-x64-0.5.0.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.cellery.io/downloads/0.5.0/cellery-macos-installer-x64-0.5.0.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack=""><img src="../{{site.baseurl}}/img/download-bg-green-fill.svg"></a>
         </td>
         <!-- <td style="width: 1%; white-space: nowrap;"><a href="">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.deb.sha1">SHA-1</a></td>
@@ -101,7 +101,7 @@ title: Cellery Leran
     <!-- <tr>
         <td style="width: 96%">ballerina-macos-installer-x64-0.990.2.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-macos-installer-x64-0.990.2.pkg"><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-macos-installer-x64-0.990.2.pkg"><img src="../{{site.baseurl}}/img/download-bg-green-fill.svg"></a>
         </td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.md5">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-macos-installer-x64-0.990.2.pkg.sha1">SHA-1</a></td>
@@ -110,7 +110,7 @@ title: Cellery Leran
     <tr>
         <td style="width: 96%">ballerina-0.990.2.zip</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-0.990.2.zip"><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-0.990.2.zip"><img src="../{{site.baseurl}}/img/download-bg-green-fill.svg"></a>
         </td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.md5">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-0.990.2.zip.sha1">SHA-1</a></td>
@@ -125,7 +125,7 @@ title: Cellery Leran
     <!-- <tr>
         <td style="width: 96%">cellery-macos-installer-x64-0.2.0-2019-04-09.pkg</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" ><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.cellery.io/nightly/0.2.0/cellery-macos-installer-x64-0.2.0-2019-04-09.pkg" class="cDownloadLinkIcon" ><img src="../{{site.baseurl}}/img/download-bg-green-fill.svg"></a>
         </td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.md5">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-linux-installer-x64-0.990.2.rpm.sha1">SHA-1</a></td>
@@ -134,7 +134,7 @@ title: Cellery Leran
     <!-- <tr>
         <td style="width: 96%">ballerina-vscode-plugin-0.990.2.vsix</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-vscode-plugin-0.990.2.vsix"><img src="../img/download-bg-green-fill.svg"></a>
+            <a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-vscode-plugin-0.990.2.vsix"><img src="../{{site.baseurl}}/img/download-bg-green-fill.svg"></a>
         </td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.md5">md5</a></td>
         <td style="width: 1%; white-space: nowrap;"><a href="https://product-dist.ballerina.io/downloads/0.990.2/ballerina-vscode-plugin-0.990.2.vsix.sha1">SHA-1</a></td>
@@ -143,7 +143,7 @@ title: Cellery Leran
     <tr>
         <td style="width: 96%">ballerina-intellij-idea-plugin</td>
         <td style="width: 1%; white-space: nowrap;">
-            <a href="https://plugins.jetbrains.com/plugin/9520-ballerina" target="_blank" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-intellij-idea-plugin-0.990.2"><img src="../img/right-bg-green-fill.svg"></a>
+            <a href="https://plugins.jetbrains.com/plugin/9520-ballerina" target="_blank" class="cDownloadLinkIcon" data-download="downloads" data-pack="ballerina-intellij-idea-plugin-0.990.2"><img src="../{{site.baseurl}}/img/right-bg-green-fill.svg"></a>
         </td>
         <td style="width: 1%; white-space: nowrap;"></td>
         <td style="width: 1%; white-space: nowrap;"></td>
