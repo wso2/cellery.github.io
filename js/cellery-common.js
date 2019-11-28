@@ -284,7 +284,6 @@ if (typeof hljs === 'object') {
         $(elem).replaceWith($iframe);
     });
 
-});
 
 $(function() {
     var pathname = window.location.pathname;

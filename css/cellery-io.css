@@ -185,7 +185,7 @@ ul.navbar-nav {
 }
 
 .cCellery-io-White-row {
-    background-image: url("/img/cellery-bg.png"); 
+    background-image: url("../img/cellery-bg.png");
     background-color: #ffffff;
     padding-bottom: 100px;
     padding: 90px 0;
@@ -292,28 +292,28 @@ h2 {
 
 
 .cCelleryBoxHome h3.box1 {
-    background-image: url("/img/create-cloud.svg");
+    background-image: url("../img/create-cloud.svg");
     line-height: 23px;
     padding-top: 9px;
     background-position: left 0;
 }
 
 .cCelleryBoxHome h3.box2 {
-    background-image: url("/img/agile-dev.svg");
+    background-image: url("../img/agile-dev.svg");
     line-height: 23px;
     padding-top: 9px;
     background-position: left 0;
 }
 
 .cCelleryBoxHome h3.box3 {
-    background-image: url("/img/structure-secure.svg");
+    background-image: url("../img/structure-secure.svg");
     line-height: 23px;
     padding-top: 9px;
     background-position: left 0;
 }
 
 .cCelleryBoxHome h3.box4 {
-    background-image: url("/img/observable.svg");
+    background-image: url("../img/observable.svg");
     line-height: 23px;
     padding-top: 9px;
     background-position: left 0;
@@ -481,7 +481,7 @@ a.cCellery-io-Home-main-download-button {
     padding: 20px 80px 20px 40px;
     display: inline-block;
     float: left;
-    background-image: url("/img/get-start.svg");
+    background-image: url("../img/get-start.svg");
     background-repeat: no-repeat;
     background-position: right;
     margin-top: 30px;
@@ -506,7 +506,7 @@ a.cCellery-io-Home-main-download-button {
 
 a.cCellery-io-Home-main-download-button:hover {
     background-color: #69b26d;
-    background-image: url("/img/get-start-2.svg");
+    background-image: url("../img/get-start-2.svg");
 }
 
 p.cCellery-io-Home-OS {
@@ -791,7 +791,7 @@ h2.cMainH2Title {
     font-weight: 800;
     display: inline-block;
     letter-spacing: 3px;
-    background-image: url("/img/submit-button-icon.svg");
+    background-image: url("../img/submit-button-icon.svg");
     background-size: 57%;
     background-repeat: no-repeat;
     background-position: center;
