@@ -203,7 +203,7 @@ Use your existing container images, written in any language.
     </script>
  <style>
 .cVideoConatiner {
-   background-image: url("/{{site.baseurl}}/img/demo.jpg");
+   background-image: url("{{site.baseurl}}/img/demo.jpg");
    background-repeat: no-repaet;
 }
 </style>
