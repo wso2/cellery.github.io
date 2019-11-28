@@ -13,6 +13,9 @@
 # VS Code
 .vscode
 
+# idea
+.idea
+
 # Package Files #
 *.jar
 *.war
