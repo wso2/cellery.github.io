@@ -10,9 +10,6 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# VS Code
-.vscode
-
 # idea
 .idea
 
