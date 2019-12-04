@@ -157,7 +157,7 @@ Use your existing container images, written in any language.
         <li><img src="../{{site.baseurl}}/img/medium-logo.svg" class="community-list-svg"/><a href="https://medium.com/wso2-cellery" target="_blank">Medium</a></li>
         <li><img src="../{{site.baseurl}}/img/github-logo-green.svg" class="community-list-svg"/><a href="https://github.com/wso2-cellery/" target="_blank">Github</a></li>
         <li><img src="../{{site.baseurl}}/img/zoomus-icon.svg" class="community-list-svg"/><a href="https://docs.google.com/document/d/1Ndj3Beh-iRgLKxGx76_t2AQ_67ZhPS_aKCbm27GQ_ms/edit?pli=1#heading=h.j5r8jmg8lp6w" target="_blank">Bi-weekly community meeting</a>
-            <span class="community-text"> (Wednesdays 09:30 PM IST/ 09:00 AM PDT)</span>
+            <span class="community-text"> (Wednesdays 09:30 PM IST/ 08:00 AM PST)</span>
         </li>
         <li><a href="https://github.com/wso2-cellery/sdk/blob/master/CONTRIBUTING.md" target="_blank">How to contribute</a></li>
       </ul>
