@@ -6,7 +6,23 @@ title: Cellery Home
    <div class="container">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cCellery-io-Home-Tag">
          <div>
-            <p class="cMainParagraph">Build, run, test, and manage code-first composites on Kubernetes</p>
+            <div class="banner">
+                <div class="cellery-msg">
+                           <p class="cellery-text">
+                Cellery started off as a learning experiment. Our passion for services composition and the need for a reference
+                implementation for <a href="https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md"
+                target="_blank" class="cellery-link">Cell-based architecture</a> gave birth to Cellery. Last year and half
+                was a great learning experience for us. Through Cellery, we learnt to organize services and deploy on Kubernetes at scale.
+                We also found out that this is a common problem that many technical communities are trying to solve and we are planning
+                to contribute to <a href="https://oam.dev/" target="_blank" class="cellery-link">such communities</a> in future. As for
+                Cellery, we are no longer actively maintaining the codebase. If you are interested in
+                forking Cellery and using it in your project, please feel free to do so. 
+                            </p>
+                            <p>You can navigate to the code base
+                at - <a target="_blank" href="https://github.com/wso2/cellery" class="cellery-link">https://github.com/wso2/cellery</a>.          
+                           </p>
+                       </div>
+            </div>
          </div>
       </div>
       <div class="col-xs-12 col-sm-16 col-md-6 col-lg-6 cCellery-io-Home-Left-col">
