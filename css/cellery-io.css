@@ -1674,3 +1674,24 @@ a.cFooterBanner-link {
     color: #43AB00;
     text-decoration: none;
 }
+
+.banner {
+    border: 1px solid #69b26d;
+    padding: 10px;
+    background: #e5eaea;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.banner p {
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+.cellery-text {
+    padding: 10px 0;
+}
+
+.cellery-link, .cellery-link:hover, .cellery-link:focus, .cellery-link:active {
+    color: #69b26d;
+}
